@@ -12,7 +12,7 @@
        (map first)                                 ;; get words
        (map clojure.string/lower-case)             ;; turn to lower-case
        set                                         ;; make into set
-     )]
+       )]
   (->> (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/wordnet_dict/data_cleaned.noun")
                                                  ;; Wordnet list of nouns
        clojure.string/split-lines                ;; split lines

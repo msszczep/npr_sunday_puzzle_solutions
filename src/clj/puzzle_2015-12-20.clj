@@ -5,19 +5,11 @@
 ;; (like B, C, D, F). No other common six-letter words end with these five letters. What are the words?
 
 
-(def fours (set (map clojure.string/join (partition 4 1 "bcdfghjklmnpqrstvwxz"))))
-
-fours
-
-(def six-letter-words
+(let [fours (set (map clojure.string/join
+                      (partition 4 1 "bcdfghjklmnpqrstvwxz")))]
   (->> (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/ospd3.txt")
        clojure.string/split-lines
-       (filter #(= 6 (count %)))
+       (filter (comp (partial = 6) count))
        (group-by #(subs % 1 6))
-       (filter (fn [[_ v]] (= 4 (count v))))
-       (filter (fn [[_ v]] (fours (clojure.string/join (map first v)))))
-  ))
-
-six-letter-words
-
-
+       (filter (comp (partial = 4) count val))
+       (filter (comp fours clojure.string/join #(map first %) val))))
