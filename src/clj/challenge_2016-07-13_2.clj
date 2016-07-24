@@ -8,10 +8,8 @@
   (->> (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/ni2.txt")
        clojure.string/split-lines
        (filter is-alphabetical-order?)
-       (sort-by count)
-       reverse
-       (take 10)
-       ))
+       (sort-by (comp (partial * -1) count))
+       (take 10)))
 
 
 

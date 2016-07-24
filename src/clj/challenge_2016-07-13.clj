@@ -10,8 +10,7 @@
                    vals
                    frequencies
                    clojure.string/lower-case))
-     (sort-by count)
-     reverse
+     (sort-by (comp (partial * -1) count))
      (take 10)
      )
 
