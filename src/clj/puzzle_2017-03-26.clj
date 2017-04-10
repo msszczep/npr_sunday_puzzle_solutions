@@ -1,7 +1,9 @@
-;;
+;; http://www.npr.org/2017/03/26/521446835/sunday-puzzle-keep-the-bookend-letters-from-these-words-to-make-new-ones
 
-;; two things found in a kitchen, g, k ->
-;; rearrange letters one in a kitchen f, elsewhere in house k
+;; Name two things found in a kitchen — one starting with G, the other starting with K.
+;; If you have the right ones, you can rearrange the letters to name two other things,
+;; one of them found in the kitchen starting with F, the other one probably found elsewhere
+;; in the house starting with K. What things are these?
 
 ; [["griddle" "knife"] ["fridge" "kindle"]]
 
@@ -24,3 +26,5 @@
 ; g -> 3229
 ; k -> 1226
 ; f -> 3651
+
+; (* 3229 1226 3651)
