@@ -1,8 +1,8 @@
-;;
+;; http://www.npr.org/2017/04/02/522357113/april-come-she-will-with-puzzles
 
-;; 4 four-letter proper names, mutual anagrams:
-;; 2 first names (one male, one female); 2 well known geographical names
-
+;; Think of four 4-letter proper names that are all anagrams of each other.
+;; Two of them are first names — one male and one female. The other two are
+;; well-known geographical names. What names are these?
 
 (let [male-first-names
        (->> (slurp (clojure.java.io/resource "male_first_names_lower.txt"))
@@ -29,4 +29,3 @@
          sort
      )))
 
-; DANE, EDNA, DEAN, ADEN

@@ -1,0 +1,297 @@
+1	New York	New York	8,491,079	8,175,133	+3.86%	302.6 sq mi
+2	Los Angeles	California	3,928,864	3,792,621	+3.59%	468.7 sq mi
+3	Chicago	Illinois	2,722,389	2,695,598	+0.99%	227.6 sq mi
+4	Houston	Texas	2,239,558	2,100,263	+6.63%	599.6 sq mi
+5	Philadelphia	Pennsylvania	1,560,297	1,526,006	+2.25%	134.1 sq mi
+6	Phoenix	Arizona	1,537,058	1,445,632	+6.32%	516.7 sq mi
+7	San Antonio	Texas	1,436,697	1,327,407	+8.23%	460.9 sq mi
+8	San Diego	California	1,381,069	1,307,402	+5.63%	325.2 sq mi
+9	Dallas	Texas	1,281,047	1,197,816	+6.95%	340.5 sq mi
+10	San Jose	California	1,015,785	945,942	+7.38%	176.6 sq mi
+11	Austin	Texas	912,791	790,390	+15.49%	322.48 sq mi
+12	Jacksonville	Florida	853,382	821,784	+3.85%	747.0 sq mi
+13	San Francisco	California	852,469	805,235	+5.87%	46.9 sq mi
+14	Indianapolis	Indiana	848,788	820,445	+3.45%	361.4 sq mi
+15	Columbus	Ohio	835,957	787,033	+6.22%	217.2 sq mi
+16	Fort Worth	Texas	812,238	741,206	+9.58%	339.8 sq mi
+17	Charlotte	North Carolina	809,958	731,424	+10.74%	297.7 sq mi
+18	Detroit	Michigan	680,250	713,777	−4.70%	138.8 sq mi
+19	El Paso	Texas	679,036	649,121	+4.61%	255.2 sq mi
+20	Seattle	Washington	668,342	608,660	+9.81%	83.9 sq mi
+21	Denver	Colorado	663,862	600,158	+10.61%	153.0 sq mi
+22	Washington	District of Columbia	658,893	601,723	+9.50%	61.0 sq mi
+23	Memphis	Tennessee	656,861	646,889	+1.54%	315.1 sq mi
+24	Boston	Massachusetts	655,884	617,594	+6.20%	48.3 sq mi
+25	Nashville	Tennessee	644,014	601,222	+7.12%	475.1 sq mi
+26	Baltimore	Maryland	622,793	620,961	+0.30%	80.9 sq mi
+27	Oklahoma City	Oklahoma	620,602	579,999	+7.00%	606.4 sq mi
+28	Portland	Oregon	619,360	583,776	+6.10%	133.4 sq mi
+29	Las Vegas	Nevada	613,599	583,756	+5.11%	135.8 sq mi
+30	Louisville	Kentucky	612,780	597,337	+2.59%	325.2 sq mi
+31	Milwaukee	Wisconsin	599,642	594,833	+0.81%	96.1 sq mi
+32	Albuquerque	New Mexico	557,169	545,852	+2.07%	187.7 sq mi
+33	Tucson	Arizona	527,972	520,116	+1.51%	226.7 sq mi
+34	Fresno	California	515,986	494,665	+4.31%	113.2 sq mi
+35	Sacramento	California	485,199	466,488	+4.01%	97.9 sq mi
+36	Long Beach	California	473,577	462,257	+2.45%	50.3 sq mi
+37	Kansas City	Missouri	470,800	459,787	+2.40%	315.0 sq mi
+38	Mesa	Arizona	464,704	439,041	+5.85%	136.5 sq mi
+39	Atlanta	Georgia	456,002	420,003	+8.57%	133.2 sq mi
+40	Virginia Beach	Virginia	450,980	437,994	+2.96%	249.0 sq mi
+41	Omaha	Nebraska	446,599	408,958	+9.20%	127.1 sq mi
+42	Colorado Springs	Colorado	445,830	416,427	+7.06%	194.5 sq mi
+43	Raleigh	North Carolina	439,896	403,892	+8.91%	142.9 sq mi
+44	Miami	Florida	430,332	399,457	+7.73%	35.9 sq mi
+45	Oakland	California	413,775	390,724	+5.90%	55.9 sq mi
+46	Minneapolis	Minnesota	407,207	382,578	+6.44%	54.0 sq mi
+47	Tulsa	Oklahoma	399,682	391,906	+1.98%	196.8 sq mi
+48	Cleveland	Ohio	389,521	396,815	−1.84%	77.7 sq mi
+49	Wichita	Kansas	388,413	382,368	+1.58%	159.3 sq mi
+50	New Orleans	Louisiana	384,320	343,829	+11.78%	169.4 sq mi
+51	Arlington	Texas	383,204	365,438	+4.86%	95.9 sq mi
+52	Bakersfield	California	368,759	347,483	+6.12%	142.2 sq mi
+53	Tampa	Florida	358,699	335,709	+6.85%	113.4 sq mi
+54	Aurora	Colorado	353,108	325,078	+8.62%	154.1 sq mi
+55	Honolulu	Hawai'i	350,399	337,256	+3.90%	60.5 sq mi
+56	Anaheim	California	346,997	336,265	+3.19%	49.8 sq mi
+57	Santa Ana	California	334,909	324,528	+3.20%	27.3 sq mi
+58	Corpus Christi	Texas	320,434	305,215	+4.99%	160.6 sq mi
+59	Riverside	California	319,504	303,871	+5.14%	81.1 sq mi
+60	St. Louis	Missouri	317,419	319,294	−0.59%	61.9 sq mi
+61	Lexington	Kentucky	310,797	295,803	+5.07%	283.6 sq mi
+62	Pittsburgh	Pennsylvania	305,412	305,704	−0.10%	55.4 sq mi
+63	Stockton	California	302,389	291,707	+3.66%	61.7 sq mi
+64	Anchorage	Alaska	301,010	291,826	+3.15%	1,704.7 sq mi
+65	Cincinnati	Ohio	298,165	296,943	+0.41%	77.9 sq mi
+66	Saint Paul	Minnesota	297,640	285,068	+4.41%	52.0 sq mi
+67	Greensboro	North Carolina	282,586	269,666	+4.79%	126.5 sq mi
+68	Toledo	Ohio	281,031	287,208	−2.15%	80.7 sq mi
+69	Newark	New Jersey	280,579	277,140	+1.24%	24.2 sq mi
+70	Plano	Texas	278,480	259,841	+7.17%	71.6 sq mi
+71	Henderson	Nevada	277,440	257,729	+7.65%	107.7 sq mi
+72	Lincoln	Nebraska	272,996	258,379	+5.66%	89.1 sq mi
+73	Orlando	Florida	262,372	238,300	+10.10%	102.4 sq mi
+74	Jersey City	New Jersey	262,146	247,597	+5.88%	14.8 sq mi
+75	Chula Vista	California	260,988	243,916	+7.00%	49.6 sq mi
+76	Buffalo	New York	258,703	261,310	−1.00%	40.4 sq mi
+77	Fort Wayne	Indiana	258,522	253,691	+1.90%	110.6 sq mi
+78	Chandler	Arizona	254,276	236,123	+7.69%	64.4 sq mi
+79	St. Petersburg	Florida	253,693	244,769	+3.65%	61.7 sq mi
+80	Laredo	Texas	252,309	236,091	+6.87%	88.9 sq mi
+81	Durham	North Carolina	251,893	228,330	+10.32%	107.4 sq mi
+82	Irvine	California	248,531	212,375	+17.02%	66.1 sq mi
+83	Madison	Wisconsin	245,691	233,209	+5.35%	76.8 sq mi
+84	Norfolk	Virginia	245,428	242,803	+1.08%	54.1 sq mi
+85	Lubbock	Texas	243,839	229,573	+6.21%	122.4 sq mi
+86	Gilbert	Arizona	239,277	208,453	+14.79%	68.0 sq mi
+87	Winston–Salem	North Carolina	239,269	229,617	+4.20%	132.4 sq mi
+88	Glendale	Arizona	237,517	226,721	+4.76%	60.0 sq mi
+89	Reno	Nevada	236,995	225,221	+5.23%	103.0 sq mi
+90	Hialeah	Florida	235,563	224,669	+4.85%	21.5 sq mi
+91	Garland	Texas	235,501	226,876	+3.80%	57.1 sq mi
+92	Chesapeake	Virginia	233,371	222,209	+5.02%	340.8 sq mi
+93	Irving	Texas	232,406	216,290	+7.45%	67.0 sq mi
+94	North Las Vegas	Nevada	230,788	216,961	+6.37%	101.3 sq mi
+95	Scottsdale	Arizona	230,512	217,385	+6.04%	183.9 sq mi
+96	Baton Rouge	Louisiana	228,895	229,493	−0.26%	76.9 sq mi
+97	Fremont	California	228,758	214,089	+6.85%	77.5 sq mi
+98	Richmond	Virginia	217,853	204,214	+6.68%	59.8 sq mi
+99	Boise	Idaho	216,282	205,671	+5.16%	79.4 sq mi
+100	San Bernardino	California	215,213	209,924	+2.52%	59.2 sq mi
+101	Birmingham	Alabama	212,247	212,237	0.00%	146.1 sq mi
+102	Spokane	Washington	212,052	208,916	+1.50%	59.2 sq mi
+103	Rochester	New York	209,983	210,565	−0.28%	35.8 sq mi
+104	Modesto	California	209,286	201,165	+4.04%	36.9 sq mi
+105	Des Moines	Iowa	209,220	203,433	+2.84%	80.9 sq mi
+106	Oxnard	California	205,437	197,899	+3.81%	26.9 sq mi
+107	Tacoma	Washington	205,159	198,397	+3.41%	49.7 sq mi
+108	Fontana	California	204,950	196,069	+4.53%	42.4 sq mi
+109	Fayetteville	North Carolina	203,948	200,564	+1.69%	145.8 sq mi
+110	Moreno Valley	California	202,976	193,365	+4.97%	51.3 sq mi
+111	Columbus	Georgia	200,887	189,885	+5.79%	216.4 sq mi
+112	Huntington Beach	California	200,809	189,992	+5.69%	26.7 sq mi
+113	Yonkers	New York	200,667	195,976	+2.39%	18.0 sq mi
+114	Montgomery	Alabama	200,481	205,764	−2.57%	159.6 sq mi
+115	Aurora	Illinois	200,456	197,899	+1.29%	44.9 sq mi
+116	Glendale	California	200,167	191,719	+4.41%	30.5 sq mi
+117	Shreveport	Louisiana	198,242	199,311	−0.54%	105.4 sq mi
+118	Akron	Ohio	197,859	199,110	−0.63%	62.0 sq mi
+119	Little Rock	Arkansas	197,706	193,524	+2.16%	119.2 sq mi
+120	Amarillo	Texas	197,254	190,695	+3.44%	99.5 sq mi
+121	Augusta	Georgia	196,741	195,844	+0.46%	302.5 sq mi
+122	Mobile	Alabama	194,675	195,111	−0.22%	139.1 sq mi
+123	Grand Rapids	Michigan	193,792	188,040	+3.06%	44.4 sq mi
+124	Salt Lake City	Utah	190,884	186,440	+2.38%	111.1 sq mi
+125	Huntsville	Alabama	188,226	180,105	+4.51%	209.1 sq mi
+126	Tallahassee	Florida	188,107	181,376	+3.71%	100.2 sq mi
+127	Grand Prairie	Texas	185,453	175,396	+5.73%	72.1 sq mi
+128	Overland Park	Kansas	184,525	173,372	+6.43%	74.8 sq mi
+129	Knoxville	Tennessee	184,281	178,874	+3.02%	98.5 sq mi
+130	Brownsville	Texas	183,046	175,023	+4.58%	132.3 sq mi
+131	Worcester	Massachusetts	183,016	181,045	+1.09%	37.4 sq mi
+132	Newport News	Virginia	182,965	180,719	+1.24%	68.7 sq mi
+133	Santa Clarita	California	181,557	176,320	+2.97%	52.7 sq mi
+134	Providence	Rhode Island	179,154	178,042	+0.62%	18.4 sq mi
+135	Fort Lauderdale	Florida	176,013	165,521	+6.34%	34.8 sq mi
+136	Garden Grove	California	175,078	170,883	+2.45%	17.9 sq mi
+137	Oceanside	California	174,558	167,086	+4.47%	41.2 sq mi
+138	Rancho Cucamonga	California	174,305	165,269	+5.47%	39.9 sq mi
+139	Santa Rosa	California	174,170	167,815	+3.79%	41.3 sq mi
+140	Port St. Lucie	Florida	174,110	164,603	+5.78%	114.0 sq mi
+141	Chattanooga	Tennessee	173,778	167,674	+3.64%	137.2 sq mi
+142	Tempe	Arizona	172,816	161,719	+6.86%	39.9 sq mi
+143	Jackson	Mississippi	171,155	173,514	−1.36%	111.0 sq mi
+144	Cape Coral	Florida	169,854	154,305	+10.08%	105.7 sq mi
+145	Vancouver	Washington	169,294	161,791	+4.64%	46.5 sq mi
+146	Ontario	California	169,089	163,924	+3.15%	49.9 sq mi
+147	Sioux Falls	South Dakota	168,586	153,888	+9.55%	73.0 sq mi
+148	Peoria	Arizona	166,934	154,065	+8.35%	174.4 sq mi
+149	Springfield	Missouri	165,378	159,498	+3.69%	81.7 sq mi
+150	Pembroke Pines	Florida	164,626	154,019	+6.89%	33.1 sq mi
+151	Elk Grove	California	163,553	153,015	+6.89%	42.2 sq mi
+152	Salem	Oregon	161,637	154,637	+4.53%	47.9 sq mi
+153	Corona	California	161,486	152,374	+5.98%	38.8 sq mi
+154	Lancaster	California	161,043	156,633	+2.82%	94.3 sq mi
+155	Eugene	Oregon	160,561	156,185	+2.80%	43.7 sq mi
+156	Palmdale	California	158,279	152,750	+3.62%	106.0 sq mi
+157	McKinney	Texas	156,767	131,117	+19.56%	62.2 sq mi
+158	Salinas	California	156,677	150,441	+4.15%	23.2 sq mi
+159	Fort Collins	Colorado	156,480	143,986	+8.68%	54.3 sq mi
+160	Cary	North Carolina	155,227	135,234	+14.78%	54.3 sq mi
+161	Hayward	California	154,612	144,186	+7.23%	45.3 sq mi
+162	Springfield	Massachusetts	153,991	153,060	+0.61%	31.9 sq mi
+163	Pasadena	Texas	153,887	149,043	+3.25%	42.8 sq mi
+164	Macon	Georgia	153,691	91,351	+68.24%	255.1 sq mi
+165	Pomona	California	153,350	149,058	+2.88%	23.0 sq mi
+166	Alexandria	Virginia	150,575	139,966	+7.58%	15.0 sq mi
+167	Escondido	California	150,243	143,911	+4.40%	36.8 sq mi
+168	Sunnyvale	California	149,980	140,081	+7.07%	22.0 sq mi
+169	Lakewood	Colorado	149,643	142,980	+4.66%	42.9 sq mi
+170	Kansas City	Kansas	149,636	145,786	+2.64%	124.8 sq mi
+171	Rockford	Illinois	149,123	152,871	−2.45%	61.1 sq mi
+172	Torrance	California	148,495	145,438	+2.10%	20.5 sq mi
+173	Hollywood	Florida	148,047	140,768	+5.17%	27.4 sq mi
+174	Joliet	Illinois	147,928	147,433	+0.34%	62.1 sq mi
+175	Bridgeport	Connecticut	147,612	144,229	+2.35%	16.0 sq mi
+176	Clarksville	Tennessee	146,806	132,929	+10.44%	97.6 sq mi
+177	Paterson	New Jersey	146,753	146,199	+0.38%	8.4 sq mi
+178	Naperville	Illinois	146,128	141,853	+3.01%	38.8 sq mi
+179	Frisco	Texas	145,035	116,989	+23.97%	61.8 sq mi
+180	Mesquite	Texas	144,416	139,824	+3.28%	46.0 sq mi
+181	Savannah	Georgia	144,352	136,286	+5.92%	103.2 sq mi
+182	Syracuse	New York	144,263	145,170	−0.62%	25.0 sq mi
+183	Dayton	Ohio	141,003	141,527	−0.37%	55.7 sq mi
+184	Pasadena	California	140,881	137,122	+2.74%	23.0 sq mi
+185	Orange	California	139,812	136,416	+2.49%	24.8 sq mi
+186	Fullerton	California	139,677	135,161	+3.34%	22.4 sq mi
+187	McAllen	Texas	138,596	129,877	+6.71%	48.3 sq mi
+188	Killeen	Texas	138,154	127,921	+8.00%	53.6 sq mi
+189	Hampton	Virginia	136,879	137,436	−0.41%	51.4 sq mi
+190	Bellevue	Washington	136,426	122,363	+11.49%	32.0 sq mi
+191	Warren	Michigan	135,099	134,056	+0.78%	34.4 sq mi
+192	Miramar	Florida	134,989	122,041	+10.61%	29.5 sq mi
+193	West Valley City	Utah	134,495	129,480	+3.87%	35.6 sq mi
+194	Olathe	Kansas	133,062	125,872	+5.71%	59.7 sq mi
+195	Columbia	South Carolina	132,067	129,272	+2.16%	132.2 sq mi
+196	Sterling Heights	Michigan	131,741	129,699	+1.57%	36.5 sq mi
+197	Thornton	Colorado	130,307	118,772	+9.71%	34.8 sq mi
+198	New Haven	Connecticut	130,282	129,779	+0.39%	18.7 sq mi
+199	Waco	Texas	130,194	124,805	+4.32%	89.0 sq mi
+200	Charleston	South Carolina	130,113	120,083	+8.35%	109.0 sq mi
+201	Thousand Oaks	California	129,342	126,683	+2.10%	55.0 sq mi
+202	Visalia	California	129,281	124,442	+3.89%	36.2 sq mi
+203	Cedar Rapids	Iowa	129,195	126,326	+2.27%	70.8 sq mi
+204	Elizabeth	New Jersey	128,705	124,969	+2.99%	12.3 sq mi
+205	Roseville	California	128,615	118,788	+8.27%	36.2 sq mi
+206	Gainesville	Florida	128,460	124,354	+3.30%	61.3 sq mi
+207	Carrollton	Texas	128,353	119,097	+7.77%	36.3 sq mi
+208	Stamford	Connecticut	128,278	122,643	+4.59%	37.6 sq mi
+209	Denton	Texas	128,205	113,383	+13.07%	88.0 sq mi
+210	Midland	Texas	128,037	111,147	+15.20%	72.1 sq mi
+211	Coral Springs	Florida	127,952	121,096	+5.66%	23.8 sq mi
+212	Concord	California	127,522	122,067	+4.47%	30.5 sq mi
+213	Topeka	Kansas	127,215	127,473	−0.20%	60.2 sq mi
+214	Simi Valley	California	126,871	124,237	+2.12%	41.5 sq mi
+215	Surprise	Arizona	126,275	117,517	+7.45%	105.7 sq mi
+216	Lafayette	Louisiana	126,066	120,623	+4.51%	49.2 sq mi
+217	Kent	Washington	125,560	92,411	+35.87%	28.6 sq mi
+218	Hartford	Connecticut	124,705	124,775	−0.06%	17.4 sq mi
+219	Santa Clara	California	122,192	116,468	+4.91%	18.4 sq mi
+220	Victorville	California	121,901	115,903	+5.18%	73.2 sq mi
+221	Abilene	Texas	120,958	117,063	+3.33%	106.8 sq mi
+222	Murfreesboro	Tennessee	120,954	108,755	+11.22%	55.3 sq mi
+223	Evansville	Indiana	120,346	117,429	+2.48%	44.2 sq mi
+224	Vallejo	California	120,228	115,942	+3.70%	30.7 sq mi
+225	Athens	Georgia	119,648	115,452	+3.63%	116.4 sq mi
+226	Allentown	Pennsylvania	119,104	118,032	+0.91%	17.5 sq mi
+227	Berkeley	California	118,853	112,580	+5.57%	10.5 sq mi
+228	Norman	Oklahoma	118,040	110,925	+6.41%	178.8 sq mi
+229	Ann Arbor	Michigan	117,770	113,934	+3.37%	27.8 sq mi
+230	Beaumont	Texas	117,585	118,296	−0.60%	82.8 sq mi
+231	Independence	Missouri	117,494	116,830	+0.57%	77.6 sq mi
+232	Columbia	Missouri	116,906	108,500	+7.75%	63.1 sq mi
+233	Springfield	Illinois	116,809	116,250	+0.48%	59.5 sq mi
+234	El Monte	California	116,631	113,475	+2.78%	9.6 sq mi
+235	Fargo	North Dakota	115,863	105,549	+9.77%	48.8 sq mi
+236	Peoria	Illinois	115,828	115,007	+0.71%	48.0 sq mi
+237	Provo	Utah	114,801	112,488	+2.06%	41.7 sq mi
+238	Lansing	Michigan	114,620	114,297	+0.28%	36.0 sq mi
+239	Odessa	Texas	114,597	99,940	+14.67%	42.0 sq mi
+240	Downey	California	114,172	111,772	+2.15%	12.4 sq mi
+241	Wilmington	North Carolina	113,657	106,476	+6.74%	51.5 sq mi
+242	Arvada	Colorado	113,574	106,433	+6.71%	35.1 sq mi
+243	Costa Mesa	California	112,784	109,960	+2.57%	15.7 sq mi
+244	Round Rock	Texas	112,744	99,887	+12.87%	34.1 sq mi
+245	Carlsbad	California	112,299	105,328	+6.62%	37.7 sq mi
+246	Miami Gardens	Florida	112,265	107,167	+4.76%	18.2 sq mi
+247	Westminster	Colorado	112,090	106,114	+5.63%	31.6 sq mi
+248	Inglewood	California	111,905	109,673	+2.04%	9.1 sq mi
+249	Rochester	Minnesota	111,402	106,769	+4.34%	54.6 sq mi
+250	Fairfield	California	111,125	105,321	+5.51%	37.4 sq mi
+251	Elgin	Illinois	111,117	108,188	+2.71%	37.2 sq mi
+252	West Jordan	Utah	110,920	103,712	+6.95%	32.5 sq mi
+253	Clearwater	Florida	110,703	107,685	+2.80%	25.6 sq mi
+254	Manchester	New Hampshire	110,448	109,565	+0.81%	33.1 sq mi
+255	Lowell	Massachusetts	109,945	106,519	+3.22%	13.6 sq mi
+256	Gresham	Oregon	109,892	105,594	+4.07%	23.2 sq mi
+257	Cambridge	Massachusetts	109,694	105,162	+4.31%	6.4 sq mi
+258	Ventura	California	109,484	106,433	+2.87%	21.7 sq mi
+259	Temecula	California	109,428	100,097	+9.32%	30.2 sq mi
+260	Waterbury	Connecticut	109,307	110,366	−0.96%	28.5 sq mi
+261	Antioch	California	108,930	102,372	+6.41%	28.3 sq mi
+262	Billings	Montana	108,869	104,170	+4.51%	43.4 sq mi
+263	High Point	North Carolina	108,629	104,371	+4.08%	53.8 sq mi
+264	Richardson	Texas	108,617	99,223	+9.47%	28.6 sq mi
+265	Richmond	California	108,565	103,701	+4.69%	30.1 sq mi
+266	West Covina	California	108,455	106,098	+2.22%	16.0 sq mi
+267	Pueblo	Colorado	108,423	106,595	+1.71%	53.6 sq mi
+268	Murrieta	California	108,368	103,466	+4.74%	33.6 sq mi
+269	Centennial	Colorado	107,201	100,377	+6.80%	28.7 sq mi
+270	Norwalk	California	107,096	105,549	+1.47%	9.7 sq mi
+271	North Charleston	South Carolina	106,749	97,471	+9.52%	76.6 sq mi
+272	Everett	Washington	106,736	103,019	+3.61%	33.4 sq mi
+273	Pompano Beach	Florida	106,105	99,845	+6.27%	24.0 sq mi
+274	Daly City	California	106,094	101,123	+4.92%	7.7 sq mi
+275	Palm Bay	Florida	105,838	103,190	+2.57%	65.7 sq mi
+276	Burbank	California	105,368	103,340	+1.96%	17.3 sq mi
+277	Wichita Falls	Texas	105,114	104,553	+0.54%	72.1 sq mi
+278	Boulder	Colorado	105,112	97,385	+7.93%	25.7 sq mi
+279	Green Bay	Wisconsin	104,891	104,057	+0.80%	45.5 sq mi
+280	Broken Arrow	Oklahoma	104,726	98,850	+5.94%	61.6 sq mi
+281	West Palm Beach	Florida	104,031	99,919	+4.12%	55.3 sq mi
+282	College Station	Texas	103,483	93,857	+10.26%	49.6 sq mi
+283	Pearland	Texas	103,441	91,252	+13.36%	47.5 sq mi
+284	Santa Maria	California	103,410	99,553	+3.87%	22.8 sq mi
+285	El Cajon	California	103,091	99,478	+3.63%	14.4 sq mi
+286	San Mateo	California	102,893	97,207	+5.85%	15.9 sq mi
+287	Lewisville	Texas	102,889	95,290	+7.97%	42.5 sq mi
+288	Rialto	California	102,741	99,171	+3.60%	22.4 sq mi
+289	Davenport	Iowa	102,448	99,685	+2.77%	62.9 sq mi
+290	Lakeland	Florida	102,346	97,422	+5.05%	74.4 sq mi
+291	Clovis	California	102,189	95,631	+6.86%	23.3 sq mi
+292	Edison	New Jersey	101,970	99,967	+2.00%	30.6 sq mi
+293	Sandy Springs	Georgia	101,908	93,853	+8.58%	39.0 sq mi
+294	Tyler	Texas	101,421	96,900	+4.67%	54.4 sq mi
+295	Las Cruces	New Mexico	101,408	97,618	+3.88%	76.3 sq mi
+296	South Bend	Indiana	101,190	101,168	+0.02%	41.5 sq mi
+297	Woodbridge	New Jersey	100,824	99,585	+1.24%	24.5 sq mi
