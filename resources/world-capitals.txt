@@ -67,19 +67,20 @@ Greece,Athens
 Grenada,St George’s
 Guatemala,Guatemala
 Guinea,Conakry
-Guinea-Bissau,
+Guinea-Bissau,Bissau
 Guyana,Georgetown
 Haiti,Port-au-Prince
 Honduras,Tegucigalpa
 Hungary,Budapest
 Iceland,Reykjavik
 India,New Delhi
+Indonesia,Djakarta
 Indonesia,Jakarta
 Iran,Tehran
 Iraq,Baghdad
 Israel,Jerusalem
 Italy,Rome
-Jamaica,Kingston, Jamaica
+Jamaica,Kingston
 Japan,Tokyo
 Jordan,Amman
 Kazakhstan,Astana
@@ -117,7 +118,7 @@ Myanmar,Naypyidaw
 Namibia,Windhoek
 Nauru,Yaren
 Nepal,Kathmandu
-Netherlands ,Amsterdam
+Netherlands,Amsterdam
 New Zealand,Wellington
 Nicaragua,Managua
 Niger,Niamey
@@ -142,7 +143,6 @@ Republic of Macedonia,Skopje
 Republic of the Congo,Brazzaville
 Romania,Bucharest
 Russia,Moscow
-Russia,Moscow
 Rwanda,Kigali
 Saint Kitts and Nevis,Basseterre
 Saint Lucia,Castries
@@ -153,7 +153,7 @@ São Tomé and Príncipe,São Tomé
 Saudi Arabia,Riyadh
 Senegal,Dakar
 Serbia,Belgrade
-Seychelles,Victoria, Seychelles
+Seychelles,Victoria
 Sierra Leone,Freetown
 Singapore,Singapore
 Slovakia,Bratislava
@@ -161,6 +161,8 @@ Slovenia,Ljubljana
 Solomon Islands,Honiara
 Somalia,Mogadishu
 South Africa,Pretoria
+South Africa,Cape Town
+South Africa,Bloemfontein
 South Korea,Seoul
 South Sudan,Juba
 Spain,Madrid
@@ -172,7 +174,6 @@ Sweden,Stockholm
 Switzerland,Bern
 Syria,Damascus
 Taiwan,Taipei
-Taiwan,Taipei
 Tajikistan,Dushanbe
 Tanzania,Dar es Salaam
 Thailand,Bangkok
@@ -181,7 +182,6 @@ Togo,Lome
 Tonga,Nuku’alofa
 Trinidad and Tobago,Port of Spain
 Tunisia,Tunis
-Turkey,Ankara
 Turkey,Ankara
 Turkmenistan,Asgabat
 Turks and Caicos,Cockburn Town
