@@ -1,0 +1,7 @@
+In[1]:= WordData["mother", "WordNetID"]
+
+Out[1]= {{mother,Noun,Inspiration}->05835292,{mother,Noun,Parent}->10332385,{mother,Noun,MotherSuperior}->10332861,{mother,Noun,OldWoman}->10332953,{mother,Noun,Yeast}->15106674,{mother,Verb,Make}->00054628,{mother,Verb,Care}->02550516}
+
+In[2]:= WordData["mom", "WordNetID"]
+
+Out[2]= {{mom,Noun}->10278128}
