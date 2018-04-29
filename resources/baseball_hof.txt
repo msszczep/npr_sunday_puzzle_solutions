@@ -1,0 +1,324 @@
+Year,Name,,Voted By,Inducted As,Votes,% of Ballots
+2018,Vladimir Guerrero\guerrvl01,1975-Living,BBWAA,Player,392.0,92.9%
+2018,Trevor Hoffman\hoffmtr01,1967-Living,BBWAA,Player,337.0,79.9%
+2018,Chipper Jones\jonesch06,1972-Living,BBWAA,Player,410.0,97.2%
+2018,Jack Morris\morrija02,1955-Living,Veterans,Player,,
+2018,Jim Thome\thomeji01,1970-Living,BBWAA,Player,379.0,89.8%
+2018,Alan Trammell\trammal01,1958-Living,Veterans,Player,,
+2017,Jeff Bagwell\bagweje01,1968-Living,BBWAA,Player,381.0,86.2%
+2017,Tim Raines\raineti01,1959-Living,BBWAA,Player,380.0,86.0%
+2017,Ivan Rodriguez\rodriiv01,1971-Living,BBWAA,Player,336.0,76.0%
+2017,John Schuerholz\schurjo99,1940-Living,Veterans,Pioneer/Executive,,
+2017,Bud Selig\seligbu99,1934-Living,Veterans,Pioneer/Executive,,
+2016,Ken Griffey\griffke02,1969-Living,BBWAA,Player,437.0,99.3%
+2016,Mike Piazza\piazzmi01,1968-Living,BBWAA,Player,365.0,83.0%
+2015,Craig Biggio\biggicr01,1965-Living,BBWAA,Player,454.0,82.7%
+2015,Randy Johnson\johnsra05,1963-Living,BBWAA,Player,534.0,97.3%
+2015,Pedro Martinez\martipe02,1971-Living,BBWAA,Player,500.0,91.1%
+2015,John Smoltz\smoltjo01,1967-Living,BBWAA,Player,455.0,82.9%
+2014,Bobby Cox\coxbo01,1941-Living,Veterans,Manager,,
+2014,Tom Glavine\glavito02,1966-Living,BBWAA,Player,525.0,91.9%
+2014,Tony La Russa\larusto01,1944-Living,Veterans,Manager,,
+2014,Greg Maddux\maddugr01,1966-Living,BBWAA,Player,555.0,97.2%
+2014,Frank Thomas\thomafr04,1968-Living,BBWAA,Player,478.0,83.7%
+2014,Joe Torre\torrejo01,1940-Living,Veterans,Manager,,
+2013,Hank O'Day\o'dayha01,1859-1935,Veterans,Umpire,,
+2013,Jacob Ruppert\ruppeja99,1867-1939,Veterans,Pioneer/Executive,,
+2013,Deacon White\whitede01,1847-1939,Veterans,Player,,
+2012,Barry Larkin\larkiba01,1964-Living,BBWAA,Player,495.0,86.4%
+2012,Ron Santo\santoro01,1940-2010,Veterans,Player,,
+2011,Roberto Alomar\alomaro01,1968-Living,BBWAA,Player,523.0,90.0%
+2011,Bert Blyleven\blylebe01,1951-Living,BBWAA,Player,463.0,79.7%
+2011,Pat Gillick\gillipa99,1937-Living,Veterans,Pioneer/Executive,,
+2010,Andre Dawson\dawsoan01,1954-Living,BBWAA,Player,420.0,77.9%
+2010,Doug Harvey\harvedo99,1930-2018,Veterans,Umpire,,
+2010,Whitey Herzog\herzowh01,1931-Living,Veterans,Manager,,
+2009,Joe Gordon\gordojo01,1915-1978,Veterans,Player,,
+2009,Rickey Henderson\henderi01,1958-Living,BBWAA,Player,511.0,94.8%
+2009,Jim Rice\riceji01,1953-Living,BBWAA,Player,412.0,76.4%
+2008,Barney Dreyfuss\dreyfba99,1865-1932,Veterans,Pioneer/Executive,,
+2008,Rich Gossage\gossari01,1951-Living,BBWAA,Player,466.0,85.8%
+2008,Bowie Kuhn\kuhnbo99,1926-2007,Veterans,Pioneer/Executive,,
+2008,Walter O'Malley\o'malwa99,1903-1979,Veterans,Pioneer/Executive,,
+2008,Billy Southworth\southbi01,1893-1969,Veterans,Manager,,
+2008,Dick Williams\willidi02,1929-2011,Veterans,Manager,,
+2007,Tony Gwynn\gwynnto01,1960-2014,BBWAA,Player,532.0,97.6%
+2007,Cal Ripken\ripkeca01,1960-Living,BBWAA,Player,537.0,98.5%
+2006,Ray Brown\brownra99,1908-1965,Negro League,Player,,
+2006,Willard Brown\brownwi02,1915-1996,Negro League,Player,,
+2006,Andy Cooper\coopean99,1898-1941,Negro League,Player,,
+2006,Frank Grant\grantfr99,1865-1937,Negro League,Player,,
+2006,Pete Hill\hillpe99,1882-1951,Negro League,Player,,
+2006,Biz Mackey\mackebi99,1897-1965,Negro League,Player,,
+2006,Effa Manley\manleef99,1897-1981,Negro League,Pioneer/Executive,,
+2006,Jose Mendez\mendejo99,1885-1928,Negro League,Player,,
+2006,Alex Pompez\pompeal99,1890-1974,Negro League,Pioneer/Executive,,
+2006,Cum Posey\poseycu99,1890-1946,Negro League,Pioneer/Executive,,
+2006,Louis Santop\santolo99,1889-1942,Negro League,Player,,
+2006,Bruce Sutter\suttebr01,1953-Living,BBWAA,Player,400.0,76.9%
+2006,Mule Suttles\suttlmu99,1901-1966,Negro League,Player,,
+2006,Ben Taylor\taylobe99,1888-1953,Negro League,Player,,
+2006,Cristobal Torriente\torricr99,1893-1938,Negro League,Player,,
+2006,Sol White\whiteso99,1868-1955,Negro League,Pioneer/Executive,,
+2006,J.L. Wilkinson\wilkijl99,1878-1964,Negro League,Pioneer/Executive,,
+2006,Jud Wilson\wilsoju99,1896-1963,Negro League,Player,,
+2005,Wade Boggs\boggswa01,1958-Living,BBWAA,Player,474.0,91.9%
+2005,Ryne Sandberg\sandbry01,1959-Living,BBWAA,Player,393.0,76.2%
+2004,Dennis Eckersley\eckerde01,1954-Living,BBWAA,Player,421.0,83.2%
+2004,Paul Molitor\molitpa01,1956-Living,BBWAA,Player,431.0,85.2%
+2003,Gary Carter\cartega01,1954-2012,BBWAA,Player,387.0,78.0%
+2003,Eddie Murray\murraed02,1956-Living,BBWAA,Player,423.0,85.3%
+2002,Ozzie Smith\smithoz01,1954-Living,BBWAA,Player,433.0,91.7%
+2001,Bill Mazeroski\mazerbi01,1936-Living,Veterans,Player,,
+2001,Kirby Puckett\puckeki01,1960-2006,BBWAA,Player,423.0,82.1%
+2001,Hilton Smith\smithhi99,1907-1983,Veterans,Player,,
+2001,Dave Winfield\winfida01,1951-Living,BBWAA,Player,435.0,84.5%
+2000,Sparky Anderson\andersp01,1934-2010,Veterans,Manager,,
+2000,Carlton Fisk\fiskca01,1947-Living,BBWAA,Player,397.0,79.6%
+2000,Bid McPhee\mcphebi01,1859-1943,Veterans,Player,,
+2000,Tony Perez\perezto01,1942-Living,BBWAA,Player,385.0,77.2%
+2000,Turkey Stearnes\steartu99,1901-1979,Veterans,Player,,
+1999,George Brett\brettge01,1953-Living,BBWAA,Player,488.0,98.2%
+1999,Orlando Cepeda\cepedor01,1937-Living,Veterans,Player,,
+1999,Nestor Chylak\chylane99,1922-1982,Veterans,Umpire,,
+1999,Nolan Ryan\ryanno01,1947-Living,BBWAA,Player,491.0,98.8%
+1999,Frank Selee\seleefr99,1859-1909,Veterans,Manager,,
+1999,Smokey Joe Williams\willijo99,1885-1951,Veterans,Player,,
+1999,Robin Yount\yountro01,1955-Living,BBWAA,Player,385.0,77.5%
+1998,George Davis\davisge01,1870-1940,Veterans,Player,,
+1998,Larry Doby\dobyla01,1923-2003,Veterans,Player,,
+1998,Lee MacPhail\macphle99,1917-2012,Veterans,Pioneer/Executive,,
+1998,Bullet Rogan\roganbu99,1893-1967,Veterans,Player,,
+1998,Don Sutton\suttodo01,1945-Living,BBWAA,Player,386.0,81.6%
+1997,Nellie Fox\foxne01,1927-1975,Veterans,Player,,
+1997,Tom Lasorda\lasorto01,1927-Living,Veterans,Manager,,
+1997,Phil Niekro\niekrph01,1939-Living,BBWAA,Player,380.0,80.3%
+1997,Willie Wells\wellswi99,1905-1989,Veterans,Player,,
+1996,Jim Bunning\bunniji01,1931-2017,Veterans,Player,,
+1996,Bill Foster\fostebi99,1904-1978,Veterans,Player,,
+1996,Ned Hanlon\hanlone01,1857-1937,Veterans,Manager,,
+1996,Earl Weaver\weaveea99,1930-2013,Veterans,Manager,,
+1995,Richie Ashburn\ashburi01,1927-1997,Veterans,Player,,
+1995,Leon Day\dayle99,1916-1995,Veterans,Player,,
+1995,William Hulbert\hulbewi99,1832-1882,Veterans,Pioneer/Executive,,
+1995,Mike Schmidt\schmimi01,1949-Living,BBWAA,Player,444.0,96.5%
+1995,Vic Willis\willivi01,1876-1947,Veterans,Player,,
+1994,Steve Carlton\carltst01,1944-Living,BBWAA,Player,436.0,95.6%
+1994,Leo Durocher\durocle01,1905-1991,Veterans,Manager,,
+1994,Phil Rizzuto\rizzuph01,1917-2007,Veterans,Player,,
+1993,Reggie Jackson\jacksre01,1946-Living,BBWAA,Player,396.0,93.6%
+1992,Rollie Fingers\fingero01,1946-Living,BBWAA,Player,349.0,81.2%
+1992,Bill McGowan\mcgowbi99,1896-1954,Veterans,Umpire,,
+1992,Hal Newhouser\newhoha01,1921-1998,Veterans,Player,,
+1992,Tom Seaver\seaveto01,1944-Living,BBWAA,Player,425.0,98.8%
+1991,Rod Carew\carewro01,1945-Living,BBWAA,Player,401.0,90.5%
+1991,Fergie Jenkins\jenkife01,1942-Living,BBWAA,Player,334.0,75.4%
+1991,Tony Lazzeri\lazzeto01,1903-1946,Veterans,Player,,
+1991,Gaylord Perry\perryga01,1938-Living,BBWAA,Player,342.0,77.2%
+1991,Bill Veeck\veeckbi99,1914-1986,Veterans,Pioneer/Executive,,
+1990,Joe Morgan\morgajo02,1943-Living,BBWAA,Player,363.0,81.8%
+1990,Jim Palmer\palmeji01,1945-Living,BBWAA,Player,411.0,92.6%
+1989,Al Barlick\barlial99,1915-1995,Veterans,Umpire,,
+1989,Johnny Bench\benchjo01,1947-Living,BBWAA,Player,431.0,96.4%
+1989,Red Schoendienst\schoere01,1923-Living,Veterans,Player,,
+1989,Carl Yastrzemski\yastrca01,1939-Living,BBWAA,Player,423.0,94.6%
+1988,Willie Stargell\stargwi01,1940-2001,BBWAA,Player,352.0,82.4%
+1987,Ray Dandridge\dandrra99,1913-1994,Veterans,Player,,
+1987,Catfish Hunter\hunteca01,1946-1999,BBWAA,Player,315.0,76.3%
+1987,Billy Williams\willibi01,1938-Living,BBWAA,Player,354.0,85.7%
+1986,Bobby Doerr\doerrbo01,1918-2017,Veterans,Player,,
+1986,Ernie Lombardi\lombaer01,1908-1977,Veterans,Player,,
+1986,Willie McCovey\mccovwi01,1938-Living,BBWAA,Player,346.0,81.4%
+1985,Lou Brock\brocklo01,1939-Living,BBWAA,Player,315.0,79.7%
+1985,Enos Slaughter\slaugen01,1916-2002,Veterans,Player,,
+1985,Arky Vaughan\vaughar01,1912-1952,Veterans,Player,,
+1985,Hoyt Wilhelm\wilheho01,1922-2002,BBWAA,Player,331.0,83.8%
+1984,Luis Aparicio\aparilu01,1934-Living,BBWAA,Player,341.0,84.6%
+1984,Don Drysdale\drysddo01,1936-1993,BBWAA,Player,316.0,78.4%
+1984,Rick Ferrell\ferreri01,1905-1995,Veterans,Player,,
+1984,Harmon Killebrew\killeha01,1936-2011,BBWAA,Player,335.0,83.1%
+1984,Pee Wee Reese\reesepe01,1918-1999,Veterans,Player,,
+1983,Walter Alston\alstowa01,1911-1984,Veterans,Manager,,
+1983,George Kell\kellge01,1922-2009,Veterans,Player,,
+1983,Juan Marichal\maricju01,1937-Living,BBWAA,Player,313.0,83.7%
+1983,Brooks Robinson\robinbr01,1937-Living,BBWAA,Player,344.0,92.0%
+1982,Hank Aaron\aaronha01,1934-Living,BBWAA,Player,406.0,97.8%
+1982,Happy Chandler\chandha99,1898-1991,Veterans,Pioneer/Executive,,
+1982,Travis Jackson\jackstr01,1903-1987,Veterans,Player,,
+1982,Frank Robinson\robinfr02,1935-Living,BBWAA,Player,370.0,89.2%
+1981,Rube Foster\fosteru99,1879-1930,Veterans,Manager,,
+1981,Bob Gibson\gibsobo01,1935-Living,BBWAA,Player,337.0,84.0%
+1981,Johnny Mize\mizejo01,1913-1993,Veterans,Player,,
+1980,Al Kaline\kalinal01,1934-Living,BBWAA,Player,340.0,88.3%
+1980,Chuck Klein\kleinch01,1904-1958,Veterans,Player,,
+1980,Duke Snider\snidedu01,1926-2011,BBWAA,Player,333.0,86.5%
+1980,Tom Yawkey\yawketo99,1903-1976,Veterans,Pioneer/Executive,,
+1979,Warren Giles\gileswa99,1896-1979,Veterans,Pioneer/Executive,,
+1979,Willie Mays\mayswi01,1931-Living,BBWAA,Player,409.0,94.7%
+1979,Hack Wilson\wilsoha01,1900-1948,Veterans,Player,,
+1978,Addie Joss\jossad01,1880-1911,Veterans,Player,,
+1978,Larry MacPhail\macphla99,1890-1975,Veterans,Pioneer/Executive,,
+1978,Eddie Mathews\matheed01,1931-2001,BBWAA,Player,301.0,79.4%
+1977,Ernie Banks\bankser01,1931-2015,BBWAA,Player,321.0,83.8%
+1977,Martin Dihigo\dihigma99,1905-1971,Negro League,Player,,
+1977,Pop Lloyd\lloydjo99,1884-1964,Negro League,Player,,
+1977,Al Lopez\lopezal01,1908-2005,Veterans,Manager,,
+1977,Amos Rusie\rusieam01,1871-1942,Veterans,Player,,
+1977,Joe Sewell\seweljo01,1898-1990,Veterans,Player,,
+1976,Oscar Charleston\charlos99,1896-1954,Negro League,Player,,
+1976,Roger Connor\connoro01,1857-1931,Veterans,Player,,
+1976,Cal Hubbard\hubbaca99,1900-1977,Veterans,Umpire,,
+1976,Bob Lemon\lemonbo01,1920-2000,BBWAA,Player,305.0,78.6%
+1976,Freddie Lindstrom\lindsfr01,1905-1981,Veterans,Player,,
+1976,Robin Roberts\roberro01,1926-2010,BBWAA,Player,337.0,86.9%
+1975,Earl Averill\averiea01,1902-1983,Veterans,Player,,
+1975,Bucky Harris\harribu01,1896-1977,Veterans,Manager,,
+1975,Billy Herman\hermabi01,1909-1992,Veterans,Player,,
+1975,Judy Johnson\johnsju99,1899-1989,Negro League,Player,,
+1975,Ralph Kiner\kinerra01,1922-2014,BBWAA,Player,273.0,75.4%
+1974,Cool Papa Bell\bellco99,1903-1991,Negro League,Player,,
+1974,Jim Bottomley\bottoji01,1900-1959,Veterans,Player,,
+1974,Jocko Conlan\conlajo01,1899-1989,Veterans,Umpire,,
+1974,Whitey Ford\fordwh01,1928-Living,BBWAA,Player,284.0,77.8%
+1974,Mickey Mantle\mantlmi01,1931-1995,BBWAA,Player,322.0,88.2%
+1974,Sam Thompson\thompsa01,1860-1922,Veterans,Player,,
+1973,Roberto Clemente\clemero01,1934-1972,Special Election,Player,,
+1973,Billy Evans\evansbi99,1884-1956,Veterans,Umpire,,
+1973,Monte Irvin\irvinmo01,1919-2016,Negro League,Player,,
+1973,High Pockets Kelly\kellyge01,1895-1984,Veterans,Player,,
+1973,Warren Spahn\spahnwa01,1921-2003,BBWAA,Player,316.0,83.2%
+1973,Mickey Welch\welchmi01,1859-1941,Veterans,Player,,
+1972,Yogi Berra\berrayo01,1925-2015,BBWAA,Player,339.0,85.6%
+1972,Josh Gibson\gibsojo99,1911-1947,Negro League,Player,,
+1972,Lefty Gomez\gomezle01,1908-1989,Veterans,Player,,
+1972,Will Harridge\harriwi99,1881-1971,Veterans,Pioneer/Executive,,
+1972,Sandy Koufax\koufasa01,1935-Living,BBWAA,Player,344.0,86.9%
+1972,Buck Leonard\leonabu99,1907-1997,Negro League,Player,,
+1972,Early Wynn\wynnea01,1920-1999,BBWAA,Player,301.0,76.0%
+1972,Ross Youngs\youngro01,1897-1927,Veterans,Player,,
+1971,Dave Bancroft\bancrda01,1891-1972,Veterans,Player,,
+1971,Jake Beckley\becklja01,1867-1918,Veterans,Player,,
+1971,Chick Hafey\hafeych01,1903-1973,Veterans,Player,,
+1971,Harry Hooper\hoopeha01,1887-1974,Veterans,Player,,
+1971,Joe Kelley\kellejo01,1871-1943,Veterans,Player,,
+1971,Rube Marquard\marquru01,1886-1980,Veterans,Player,,
+1971,Satchel Paige\paigesa01,1906-1982,Negro League,Player,,
+1971,George Weiss\weissge99,1894-1972,Veterans,Pioneer/Executive,,
+1970,Lou Boudreau\boudrlo01,1917-2001,BBWAA,Player,232.0,77.3%
+1970,Earle Combs\combsea01,1899-1976,Veterans,Player,,
+1970,Ford Frick\frickfo99,1894-1978,Veterans,Pioneer/Executive,,
+1970,Jesse Haines\haineje01,1893-1978,Veterans,Player,,
+1969,Roy Campanella\camparo01,1921-1993,BBWAA,Player,270.0,79.4%
+1969,Stan Coveleski\covelst01,1889-1984,Veterans,Player,,
+1969,Waite Hoyt\hoytwa01,1899-1984,Veterans,Player,,
+1969,Stan Musial\musiast01,1920-2013,BBWAA,Player,317.0,93.2%
+1968,Kiki Cuyler\cuyleki01,1898-1950,Veterans,Player,,
+1968,Goose Goslin\gosligo01,1900-1971,Veterans,Player,,
+1968,Joe Medwick\medwijo01,1911-1975,BBWAA,Player,240.0,84.8%
+1967,Branch Rickey\rickebr01,1881-1965,Veterans,Pioneer/Executive,,
+1967,Red Ruffing\ruffire01,1905-1986,Run Off,Player,266.0,86.9%
+1967,Lloyd Waner\wanerll01,1906-1982,Veterans,Player,,
+1966,Casey Stengel\stengca01,1890-1975,Veterans,Manager,,
+1966,Ted Williams\willite01,1918-2002,BBWAA,Player,282.0,93.4%
+1965,Pud Galvin\galvipu01,1856-1902,Veterans,Player,,
+1964,Luke Appling\applilu01,1907-1991,Run Off,Player,189.0,94.0%
+1964,Red Faber\faberre01,1888-1976,Veterans,Player,,
+1964,Burleigh Grimes\grimebu01,1893-1985,Veterans,Player,,
+1964,Miller Huggins\huggimi01,1878-1929,Veterans,Manager,,
+1964,Tim Keefe\keefeti01,1857-1933,Veterans,Player,,
+1964,Heinie Manush\manushe01,1901-1971,Veterans,Player,,
+1964,John Ward\wardjo01,1860-1925,Veterans,Player,,
+1963,John Clarkson\clarkjo01,1861-1909,Veterans,Player,,
+1963,Elmer Flick\flickel01,1876-1971,Veterans,Player,,
+1963,Sam Rice\ricesa01,1890-1974,Veterans,Player,,
+1963,Eppa Rixey\rixeyep01,1891-1963,Veterans,Player,,
+1962,Bob Feller\fellebo01,1918-2010,BBWAA,Player,150.0,93.8%
+1962,Bill McKechnie\mckecbi01,1886-1965,Veterans,Manager,,
+1962,Jackie Robinson\robinja02,1919-1972,BBWAA,Player,124.0,77.5%
+1962,Edd Roush\roushed01,1893-1988,Veterans,Player,,
+1961,Max Carey\careyma01,1890-1976,Veterans,Player,,
+1961,Billy Hamilton\hamilbi01,1866-1940,Veterans,Player,,
+1959,Zack Wheat\wheatza01,1888-1972,Veterans,Player,,
+1957,Sam Crawford\crawfsa01,1880-1968,Veterans,Player,,
+1957,Joe McCarthy\mccarjo99,1887-1978,Veterans,Manager,,
+1956,Joe Cronin\cronijo01,1906-1984,BBWAA,Player,152.0,78.8%
+1956,Hank Greenberg\greenha01,1911-1986,BBWAA,Player,164.0,85.0%
+1955,Home Run Baker\bakerfr01,1886-1963,Veterans,Player,,
+1955,Joe DiMaggio\dimagjo01,1914-1999,BBWAA,Player,223.0,88.8%
+1955,Gabby Hartnett\hartnga01,1900-1972,BBWAA,Player,195.0,77.7%
+1955,Ted Lyons\lyonste01,1900-1986,BBWAA,Player,217.0,86.5%
+1955,Ray Schalk\schalra01,1892-1970,Veterans,Player,,
+1955,Dazzy Vance\vanceda01,1891-1961,BBWAA,Player,205.0,81.7%
+1954,Bill Dickey\dickebi01,1907-1993,BBWAA,Player,202.0,80.2%
+1954,Rabbit Maranville\maranra01,1891-1954,BBWAA,Player,209.0,82.9%
+1954,Bill Terry\terrybi01,1898-1989,BBWAA,Player,195.0,77.4%
+1953,Ed Barrow\barroed99,1868-1953,Veterans,Pioneer/Executive,,
+1953,Chief Bender\bendech01,1884-1954,Veterans,Player,,
+1953,Tommy Connolly\connoto99,1870-1961,Veterans,Umpire,,
+1953,Dizzy Dean\deandi01,1910-1974,BBWAA,Player,209.0,79.2%
+1953,Bill Klem\klembi99,1874-1951,Veterans,Umpire,,
+1953,Al Simmons\simmoal01,1902-1956,BBWAA,Player,199.0,75.4%
+1953,Bobby Wallace\wallabo01,1873-1960,Veterans,Player,,
+1953,Harry Wright\wrighha01,1835-1895,Veterans,Pioneer/Executive,,
+1952,Harry Heilmann\heilmha01,1894-1951,BBWAA,Player,203.0,86.8%
+1952,Paul Waner\wanerpa01,1903-1965,BBWAA,Player,195.0,83.3%
+1951,Jimmie Foxx\foxxji01,1907-1967,BBWAA,Player,179.0,79.2%
+1951,Mel Ott\ottme01,1909-1958,BBWAA,Player,197.0,87.2%
+1949,Mordecai Brown\brownmo01,1876-1948,Old Timers,Player,,
+1949,Charlie Gehringer\gehrich01,1903-1993,Run Off,Player,159.0,85.0%
+1949,Kid Nichols\nichoki01,1869-1953,Old Timers,Player,,
+1948,Herb Pennock\pennohe01,1894-1948,BBWAA,Player,94.0,77.7%
+1948,Pie Traynor\traynpi01,1898-1972,BBWAA,Player,93.0,76.9%
+1947,Mickey Cochrane\cochrmi01,1903-1962,BBWAA,Player,128.0,79.5%
+1947,Frankie Frisch\friscfr01,1897-1973,BBWAA,Player,136.0,84.5%
+1947,Lefty Grove\grovele01,1900-1975,BBWAA,Player,123.0,76.4%
+1947,Carl Hubbell\hubbeca01,1903-1988,BBWAA,Player,140.0,87.0%
+1946,Jesse Burkett\burkeje01,1868-1953,Old Timers,Player,,
+1946,Frank Chance\chancfr01,1876-1924,Old Timers,Player,,
+1946,Jack Chesbro\chesbja01,1874-1931,Old Timers,Player,,
+1946,Johnny Evers\eversjo01,1881-1947,Old Timers,Player,,
+1946,Clark Griffith\griffcl01,1869-1955,Old Timers,Pioneer/Executive,,
+1946,Tommy McCarthy\mccarto01,1863-1922,Old Timers,Player,,
+1946,Joe McGinnity\mcginjo01,1871-1929,Old Timers,Player,,
+1946,Eddie Plank\planked01,1875-1926,Old Timers,Player,,
+1946,Joe Tinker\tinkejo01,1880-1948,Old Timers,Player,,
+1946,Rube Waddell\wadderu01,1876-1914,Old Timers,Player,,
+1946,Ed Walsh\walshed01,1881-1959,Old Timers,Player,,
+1945,Roger Bresnahan\bresnro01,1879-1944,Old Timers,Player,,
+1945,Dan Brouthers\broutda01,1858-1932,Old Timers,Player,,
+1945,Fred Clarke\clarkfr01,1872-1960,Old Timers,Player,,
+1945,Jimmy Collins\colliji01,1870-1943,Old Timers,Player,,
+1945,Ed Delahanty\delahed01,1867-1903,Old Timers,Player,,
+1945,Hugh Duffy\duffyhu01,1866-1954,Old Timers,Player,,
+1945,Hughie Jennings\jennihu01,1869-1928,Old Timers,Player,,
+1945,King Kelly\kellyki01,1857-1894,Old Timers,Player,,
+1945,Jim O'Rourke\o'rouji01,1850-1919,Old Timers,Player,,
+1945,Wilbert Robinson\robinwi01,1864-1934,Old Timers,Manager,,
+1944,Kenesaw Landis\landike99,1866-1944,Old Timers,Pioneer/Executive,,
+1942,Rogers Hornsby\hornsro01,1896-1963,BBWAA,Player,182.0,78.1%
+1939,Cap Anson\ansonca01,1852-1922,Old Timers,Player,,
+1939,Eddie Collins\collied01,1887-1951,BBWAA,Player,213.0,77.7%
+1939,Charlie Comiskey\comisch01,1859-1931,Old Timers,Pioneer/Executive,,
+1939,Candy Cummings\cummica01,1848-1924,Old Timers,Pioneer/Executive,,
+1939,Buck Ewing\ewingbu01,1859-1906,Old Timers,Player,,
+1939,Lou Gehrig\gehrilo01,1903-1941,Special Election,Player,,
+1939,Willie Keeler\keelewi01,1872-1923,BBWAA,Player,207.0,75.5%
+1939,Old Hoss Radbourn\radboch01,1854-1897,Old Timers,Player,,
+1939,George Sisler\sislege01,1893-1973,BBWAA,Player,235.0,85.8%
+1939,Al Spalding\spaldal01,1850-1915,Old Timers,Pioneer/Executive,,
+1938,Pete Alexander\alexape01,1887-1950,BBWAA,Player,212.0,80.9%
+1938,Alexander Cartwright\cartwal99,1820-1892,Centennial,Pioneer/Executive,,
+1938,Henry Chadwick\chadwhe99,1824-1908,Centennial,Pioneer/Executive,,
+1937,Morgan Bulkeley\bulkemo99,1837-1922,Centennial,Pioneer/Executive,,
+1937,Ban Johnson\johnsba99,1865-1931,Centennial,Pioneer/Executive,,
+1937,Nap Lajoie\lajoina01,1874-1959,BBWAA,Player,168.0,83.6%
+1937,Connie Mack\mackco01,1862-1956,Centennial,Manager,,
+1937,John McGraw\mcgrajo01,1873-1934,Veterans,Manager,,
+1937,Tris Speaker\speaktr01,1888-1958,BBWAA,Player,165.0,82.1%
+1937,George Wright\wrighge01,1847-1937,Centennial,Pioneer/Executive,,
+1937,Cy Young\youngcy01,1867-1955,BBWAA,Player,153.0,76.1%
+1936,Ty Cobb\cobbty01,1886-1961,BBWAA,Player,222.0,98.2%
+1936,Walter Johnson\johnswa01,1887-1946,BBWAA,Player,189.0,83.6%
+1936,Christy Mathewson\mathech01,1880-1925,BBWAA,Player,205.0,90.7%
+1936,Babe Ruth\ruthba01,1895-1948,BBWAA,Player,215.0,95.1%
+1936,Honus Wagner\wagneho01,1874-1955,BBWAA,Player,215.0,95.1%
