@@ -240,3 +240,137 @@ fibula
 fin
 finger
 fist
+flapper
+foot
+footsies
+footsie
+forearm
+funny bone
+gam
+gams
+hamstring
+hand
+haunch
+heel
+hip
+hollow
+hoof
+index finger
+instep
+knee
+knuckle
+leg
+limb
+little finger
+middle finger
+mitt
+paw
+pinkie
+pinky
+pin
+pins
+pups
+ring finger
+shank
+shinbone
+shoulder
+soupbone
+stick
+sticks
+stumps
+tarsus
+thigh
+thighbone
+thumb
+tibia
+toe
+tootsie
+triceps
+tootsies
+ulna
+underarm
+upper arm
+wheels
+wing
+wrist
+alpha wave
+axon
+beta wave
+brain
+central nervous system
+cerebellum
+cerebral cortex
+cerebral hemisphere
+cerebrospinal fluid
+cerebrum
+cns
+corpus callosum
+cortex
+dendrite
+frontal lobe
+ganglion
+gray matter
+grey matter
+hypothalamus
+impulse
+limbic system
+medulla
+meninges
+meninx
+motor
+myelin
+neocortex
+nerve
+nervous system
+brachial nerve
+cervical nerve
+coccygeal nerve
+digital nerve
+femoral nerve
+intercostal nerve
+lumbar nerve
+mandibular nerve
+maxillary nerve
+ophthalmic nerve
+peroneal nerve
+radial nerve
+sacral nerve
+sciatic nerve
+troracic nerve
+tibial nerve
+ulnar nerve
+neuron
+node of Ranvier
+occipital lobe
+olfactory lobe
+pallium
+parietal lobe
+pons
+sciatic nerve
+sense organs
+sensory receptors
+spinal column
+spinal cord
+synapse
+temporal lobe
+thalamus
+ventricle
+agglutination
+aorta
+arteriole
+artery
+atrium
+auricle
+blood
+bloodstream
+blood vessel
+capillary
+capillary network
+cardiac muscle
+carotid artery
+circulatory system
+clot
+coronary artery
+corpuscle
+diastole
+erythrocyte
