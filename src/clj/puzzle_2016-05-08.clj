@@ -6,14 +6,14 @@
 
 ;; Reference: http://wordnet.princeton.edu/wordnet/man/lexnames.5WN.html
 
-(let [words (->> (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/ospd3.txt")
+(let [words (->> (slurp "resources/ospd3.txt")
                  clojure.string/split-lines)
       three-letter-words (set (filter (comp (partial = 3) count) words))
       six-letter-frequencies (set
                                (map frequencies
                                     (filter (comp (partial = 6) count) words)))]
   (->>
-    (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/wordnet_dict/data_cleaned.noun")
+    (slurp "resources/wordnet_data_cleaned.noun")
                                                                   ;; Wordnet list of nouns
     clojure.string/split-lines                                    ;; split lines
     (map #(clojure.string/split % #" "))

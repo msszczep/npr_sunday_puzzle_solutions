@@ -111,7 +111,9 @@ to write our own version that considers the empty-list to be distinct"
               :else (multi-comb items t)))))
   )
 
-;; The real fun begins here!
+(require '[clojure.math.combinatorics :as combo])
+
+
 (def vowels #{"AA" "AH" "EH" "IH" "OW" "UH" "AE" "AO"
               "AY" "IY" "ER" "EY" "AW" "OY" "UW"})
 
@@ -129,22 +131,30 @@ to write our own version that considers the empty-list to be distinct"
        (drop-while #(not (contains? vowels %)))
        (apply str)))
 
+(defn clean-up-word [word]
+  (clojure.string/replace word #"[^A-Z]" ""))
+
 (def one-syllable-words
-  (->> (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/cmudict.txt")
+  (->> "resources/cmudict-0.7b.txt"
+       slurp
        clojure.string/split-lines
        (map #(clojure.string/replace-first % #" " ""))
        (map #(clojure.string/split % #" " 2))
-       (filter #(find-monosyllables (second %)))))
+       (filter #(find-monosyllables (second %)))
+       (map (juxt (comp clean-up-word first) (comp identity second)))))
 
 (def rhymed-words-map
-  (group-by #(get-nucleus-and-coda (second %)) one-syllable-words))
+  (group-by (comp get-nucleus-and-coda second) one-syllable-words))
 
 ;; (count rhymed-words-map) -> 1276
 ;; (take 20 rhymed-words-map)
 
-(defn get-words [v] (map first v))
+;(defn get-words [v] (map first v))
 
-(def sets-of-words (map #(get-words (val %)) rhymed-words-map))
+; (def sets-of-words (map #(get-words (val %)) rhymed-words-map))
+
+(def sets-of-words 
+  (map (comp (partial map first) val) rhymed-words-map))
 
 ;; (apply max (map count sets-of-words)) -> 186
 ;; (filter #(= 186 (count %)) sets-of-words) -> rhymes with "boo"
@@ -155,9 +165,9 @@ to write our own version that considers the empty-list to be distinct"
        flatten
        (partition 2)))
 
-(defn check-if-words-have-shared-letters [words]
-  (empty? (clojure.set/intersection (set (butlast (map char (first words))))
-                                    (set (butlast (map char (last words)))))))
+(defn check-if-words-have-shared-letters [[w1 w2]]
+  (empty? (clojure.set/intersection (set (map char w1))
+                                    (set (map char w2)))))
 
 (def final-pairs
   (filter check-if-words-have-shared-letters get-word-pairs))
@@ -165,22 +175,55 @@ to write our own version that considers the empty-list to be distinct"
 ;; (count final-pairs) -> 17687
 
 (def all-the-words
-  (->> (slurp "/Users/msszczep1/Scripts/npr_puzzle_scripts/xbu.txt")
-       clojure.string/split-lines))
+  (->> "resources/ni2.txt"
+       slurp
+       clojure.string/split-lines
+       set))
 
 ;; (count all-the-words) -> 234936
 
 (defn compare-pair-to-word [pair word]
   (let [p-result (-> (apply str pair)
                      (clojure.string/replace #"\d" "")
-                     (clojure.string/lower-case)
-                     sort)
-        w-result (apply str (sort word))]
-    (= w-result (apply str p-result))))
+                     (clojure.string/lower-case))]
+    (= (frequencies word) (frequencies p-result))))
 
 ;; (compare-pair-to-word '("lei" "say") "easily")
 
+(def frequencies-of-final-words
+  (->> final-pairs
+       (map (comp count (partial apply str)))
+       frequencies
+       (sort-by key)
+       reverse))
+
+(defn find-pairs-by-combined-word-length [pairs n]
+  (->> pairs
+       (filter (comp (partial = n)
+                     count
+                     (partial apply str)))))
+
 ;; at last?!
-(remove nil? (for [w all-the-words
-      p final-pairs]
-  (when (compare-pair-to-word p w) [w p])))
+#_(def final-answer
+ (remove nil? (for [w all-the-words
+                    p (find-pairs-by-combined-word-length final-pairs 11)]
+                (when (compare-pair-to-word p w) [w p]))))
+
+(filter #(compare-pair-to-word '("lei" "say") %) all-the-words)
+
+(def final-answer-9
+ (remove (comp empty? second)
+         (for [p (find-pairs-by-combined-word-length final-pairs 9)]
+           [p (filter #(compare-pair-to-word p %) all-the-words)])))
+
+(for [p (find-pairs-by-combined-word-length final-pairs 9)]
+  (spit "final-answer-9.txt" [p (filter #(compare-pair-to-word p %) all-the-words)] :append true))
+
+final-answer-9 
+
+; [[("RIOUX" "SCHEWE") ()] [("SIEW" "THROUGH") ("housewright")]]
+
+; (spit "final-answer.txt" final-answer)
+
+; (clojure.pprint/pprint (take 20 (sort-by (comp count (partial apply str) first) final-answer)))
+

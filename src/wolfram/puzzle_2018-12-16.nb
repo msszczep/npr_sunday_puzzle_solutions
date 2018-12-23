@@ -1,0 +1,11 @@
+# https://www.npr.org/2018/12/16/677102109/sunday-puzzle-silence-is-golden
+
+# Think of two words meaning "certain groups of females." If you 
+# have the right ones, you can rearrange all the letters to name a 
+# famous novel by a female writer. The title has 13 letters in total. 
+# What novel is it?
+
+Select[EntityList["Book"], StringLength[StringReplace[CommonName[#], RegularExpression["[^a-zA-Z]"] -> ""]] == 13 &]
+
+Select[%,EntityValue[EntityValue[#,"Author"], "Gender"] == {Entity["Gender", "Female"]} &]
+
