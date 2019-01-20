@@ -1,0 +1,1001 @@
+1	Stairway to Heaven   	Led Zeppelin
+2	Hey Jude	Beatles
+3	All Along the Watchtower	Hendrix, Jimi
+4	Satisfaction	Rolling Stones
+5	Like A Rolling Stone	Dylan, Bob
+6	Another Brick In The Wall	Pink Floyd
+7	Won't Get Fooled Again	Who
+8	Hotel California	Eagles
+9	Layla	Derek And The Dominos
+10	Sweet Home Alabama	Lynyrd Skynyrd
+11	Bohemian Rhapsody	Queen
+12	Riders on the Storm	Doors
+13	Rock and Roll	Led Zeppelin
+14	Barracuda	Heart
+15	La Grange	ZZ Top
+16	Dream On	Aerosmith
+17	You Really Got Me	Van Halen
+18	More Than a Feeling	Boston
+19	Sultans of Swing	Dire Straits
+20	You Shook Me All Night Long	AC/DC
+21	Kashmir	Led Zeppelin
+22	Lola	Kinks
+23	Carry on Wayward Son 	Kansas
+24	Tiny Dancer	John, Elton
+25	Locomotive Breath	Jethro Tull
+26	I Still Haven't Found	U2
+27	Magic Carpet Ride	Steppenwolf
+28	Free Bird	Lynyrd Skynyrd
+29	Purple Haze	Hendrix, Jimi
+30	Tom Sawyer	Rush
+31	Let It Be	Beatles
+32	Baba O'Riley	Who
+33	The Joker	Miller, Steve
+34	Roxanne	Police
+35	Time	Pink Floyd
+36	It's A Long Way to the Top	AC/DC
+37	Whole Lotta Love	Led Zeppelin
+38	The Chain	Fleetwood Mac
+39	I've Seen All Good People	Yes
+40	For What It's Worth	Buffalo Springfield
+41	Black Magic Woman	Santana
+42	Nights in White Satin	Moody Blues
+43	While My Guitar Gently Weeps	Beatles
+44	Gimme Shelter	Rolling Stones
+45	Gold Dust Woman	Fleetwood Mac
+46	Fortunate Son	CCR
+47	American Pie	McLean, Don
+48	Bad Company	Bad Company
+49	Waitin' For The Bus/Jesus Just Left	ZZ Top
+50	Over the Hills and Far Away	Led Zeppelin
+51	Owner of a Lonely Heart	Yes
+52	The Logical Song	Supertramp
+53	A Day in the Life	Beatles
+54	Sweet Emotion	Aerosmith
+55	Down On The Corner	CCR
+56	My Sweet Lord	Harrison, George
+57	Knockin' on Heaven's Door	Dylan, Bob
+58	Just What I Needed	Cars
+59	Don't Fear the Reaper	Blue Oyster Cult
+60	Behind Blue Eyes	Who
+61	Do It Again	Steely Dan
+62	Who Do You Love	Thorogood, George
+63	From the Beginning	ELP
+64	Already Gone	Eagles
+65	Here Comes The Sun	Beatles
+66	With Or Without You	U2
+67	Life's Been Good	Walsh, Joe
+68	Breakdown (Live Version)	Petty, Tom
+69	Comfortably Numb	Pink Floyd
+70	Ramble On	Led Zeppelin
+71	I'd Love to Change the World	Ten Years After
+72	Foreplay Longtime	Boston
+73	Brown Eyed Girl	Morrison, Van
+74	Back In Black	AC/DC
+75	You Can't Always Get What You	Rolling Stones
+76	Take It Easy	Eagles
+77	Sgt. Pepper/With A Little Help	Beatles
+78	We Will Rock You/We Are the	Queen
+79	Dancing Days	Led Zeppelin
+80	Turn the Page	Seger, Bob
+81	All Right Now	Free
+82	Black Water	Doobie Brothers
+83	Oh Well	Fleetwood Mac
+84	Me and Bobby McGee	Joplin, Janis
+85	Rocket Man	John, Elton
+86	Ohio	CSN&Y
+87	You Really Got Me	Kinks
+88	Bloody Well Right	Supertramp
+89	Dirty Deeds	AC/DC
+90	Aqualung	Jethro Tull
+91	The Wind Cries Mary	Hendrix, Jimi
+92	Burnin' for You	Blue Oyster Cult
+93	Moving in Stereo/All Mixed Up	Cars
+94	House of the Rising Sun	Animals
+95	Bargain	Who
+96	Maybe I'm Amazed	McCartney, Paul
+97	Bennie & The Jets	John, Elton
+98	Dust in the Wind	Kansas
+99	Rock 'n Roll Hootchie Koo	Derringer, Rick
+100	Crazy On You	Heart
+101	Do You Feel Like We Do	Frampton, Peter
+102	Louie Louie	Kingsmen, The
+103	Jessica	Allman Brothers
+104	Long Train Running	Doobie Brothers
+105	Walkin' On The Moon	Police
+106	Stranglehold	Nugent, Ted
+107	Fire	Hendrix, Jimi
+108	Tush	ZZ Top
+109	Feel Like Making Love	Bad Company
+110	Who'll Stop The Rain	CCR
+111	The Sky Is Crying	Vaughan, Stevie Ray
+112	You Ain't Seen Nothing Yet	BTO
+113	Smoke on the Water	Deep Purple
+114	Can't You See	Marshall Tucker Band
+115	Night Moves	Seger, Bob
+116	Touch Me	Doors
+117	Runnin' With The Devil	Van Halen
+118	Cocaine (Live)	Clapton, Eric
+119	Immigrant Song	Led Zeppelin
+120	Run Through The Jungle	CCR
+121	Brain Damage/Eclipse	Pink Floyd
+122	You've Got to Hide Your Love Away	Beatles
+123	Jumpin' Jack Flash	Rolling Stones
+124	Levon	John, Elton
+125	Take The Money And Run	Miller, Steve
+126	Maggie May	Stewart, Rod
+127	Born To Be Wild	Steppenwolf
+128	White Room	Cream
+129	Lucky Man	ELP
+130	Call Me The Breeze	Lynyrd Skynyrd
+131	My Best Friend's GIrl	Cars
+132	Let My Love Open The Door	Townshend, Pete
+133	Money For Nothing	Dire Straits
+134	Breakfast In America	Supertramp
+135	You Make Lovin' Fun	Fleetwood Mac
+136	Burnin' Sky	Bad Company
+137	Long Distance Runaround	Yes
+138	The Grand Illusion	Styx
+139	Strawberry Fields Forever	Beatles
+140	Come Together	Beatles
+141	Goodbye Yellow Brick Road	John, Elton
+142	Rock 'n Roll Band	Boston
+143	Runnin' Down a Dream	Petty, Tom
+144	I Heard It Through The Grapevine	CCR
+145	Dear Mr. Fantasy	Traffic
+146	Dreams	Fleetwood Mac
+147	Fire on High	ELO
+148	Wish You Were Here	Pink Floyd
+149	Bridge of Sighs	Trower, Robin
+150	Rocky Racoon	Beatles
+151	Walk This Way	Aerosmith
+152	In My Life	Beatles
+153	Good Times Roll	Cars
+154	Fool In the Rain	Led Zeppelin
+155	Revolution	Beatles
+156	Born To Run	Springsteen, Bruce
+157	Oye Como Va	Santana
+158	Reeling In The Years	Steely Dan
+159	Every Breath You Take	Police
+160	Rainy Day Women #12 & 35	Dylan, Bob
+161	Frankenstein	Winter Group, Edgar
+162	Refugee	Petty, Tom
+163	Have  A Cigar	Pink Floyd
+164	The Spirit of Radio	Rush
+165	Going To California	Led Zeppelin
+166	Hello, I Love You	Doors
+167	Go Your Own Way	Fleetwood Mac
+168	Peace of Mind	Boston
+169	White Rabbit	Jefferson Airplane
+170	Radar Love	Golden Earring
+171	Never Been Any Reason	Head East
+172	Let It Rain	Clapton, Eric
+173	Cold As Ice	Foreigner
+174	Karn Evil 9	ELP
+175	Subdivisions	Rush
+176	Pink Cadillac	Springsteen, Bruce
+177	Rocky Mountain Way	Walsh, Joe
+178	New Year's Day	U2
+179	Magic Man	Heart
+180	Witchy Woman	Eagles
+181	Rock and Roll Fantasy	Bad Company
+182	Love Me Two Times	Doors
+183	Eleanor Rigby	Beatles
+184	Middle of The Road	Pretenders
+185	Sunshine of Your Love	Cream
+186	Don't Look Back	Boston
+187	Dirty Laundry	Henley, Don
+188	Penny Lane	Beatles
+189	Killer Queen	Queen
+190	Fly Like An Eagle	Miller, Steve
+191	Cross-Eyed Mary	Jethro Tull
+192	Heartbreaker	Benatar, Pat
+193	Norwegian Wood	Beatles
+194	Your Song	John, Elton
+195	Hey Baby	Nugent, Ted
+196	Money	Pink Floyd
+197	Space Oddity	Bowie, David
+198	Street Fighting Man	Rolling Stones
+199	Moondance	Morrison, Van
+200	Pride and Joy	Vaughan, Stevie Ray
+201	Limelight	Rush
+202	Going Mobile	Who
+203	Let's Go	Cars
+204	American Woman	Guess Who
+205	Rock You Like a Hurricane	Scorpions
+206	Stop Dragging My Heart Around	Nicks, Stevie & Petty, Tom
+207	Give A Little Bit	Supertramp
+208	Light My Fire	Doors
+209	Against The Wind	Seger, Bob
+210	Hey Hey What Can I Do	Led Zeppelin
+211	Panama	Van Halen
+212	Free Ride	Winter Group, Edgar
+213	If Six Was Nine	Hendrix, Jimi
+214	Walk Away	James Gang
+215	Sunday Bloody Sunday	U2
+216	Angie	Rolling Stones
+217	Train Kept A Rollin'	Aerosmith
+218	Teacher	Jethro Tull
+219	Slow Ride	Foghat
+220	Evil Ways	Santana
+221	Badge	Cream
+222	Jamie's Cryin'	Van Halen
+223	Shine On You Crazy Diamond	Pink Floyd
+224	Wonderful Tonight	Clapton, Eric
+225	Rhiannon	Fleetwood Mac
+226	Highway To Hell	AC/DC
+227	Piece of My Heart	Joplin, Janis
+228	Every Little Thing She Does is	Police
+229	Cheap Sunglasses	ZZ Top
+230	Thick As A Brick	Jethro Tull
+231	The End 	Doors
+232	Back On The Chain Gang	Pretenders
+233	Lady	Styx
+234	All My Love	Led Zeppelin
+235	Take the Long Way Home	Supertramp
+236	Don't Do Me Like That	Petty, Tom
+237	Breakdown	Parsons Project, Alan
+238	Bad Moon Rising	CCR
+239	People Are Strange	Doors
+240	Houses of The Holy	Led Zeppelin
+241	Start Me Up	Rolling Stones
+242	Dance The Night Away	Van Halen
+243	Breathe	Pink Floyd
+244	Small Town	Mellencamp, John
+245	L.A. Woman	Doors
+246	Smokin'	Boston
+247	The Load Out/Stay	Browne, Jackson
+248	Werewolves of London	Zevon, Warren
+249	Thank You	Led Zeppelin
+250	In Your Eyes	Gabriel, Peter
+251	After Midnight (1988)	Clapton, Eric
+252	Jet Airliner	Miller, Steve
+253	Feeling Alright	Cocker, Joe
+254	Hitch A Ride	Boston
+255	School	Supertramp
+256	Love Her Madly	Doors
+257	You're All I've Got Tonight	Cars
+258	Hold The Line	Toto
+259	Foxey Lady	Hendrix, Jimi
+260	Fly By Night	Rush
+261	Blue Collar Man	Styx
+262	Get Back	Beatles
+263	My Generation	Who
+264	Rock'n Me	Miller, Steve
+265	Skateaway	Dire Straits
+266	A Hard Day's Night	Beatles
+267	Paranoid	Black Sabbath
+268	The Boys Are Back In Town	Thin Lizzy
+269	Hush	Deep Purple
+270	Young Lust	Pink Floyd
+271	Bad to the Bone	Thorogood, George
+272	Question	Moody Blues
+273	Edge of 17	Nicks, Stevie
+274	Feelin' That Way/Anytime	Journey
+275	Crossroads	Cream
+276	Honky Tonk Women	Rolling Stones
+277	Closer to Home/I'm Your Captain	Grand Funk Railroad
+278	Have You Ever Seen the Rain	CCR
+279	Eight Miles High	Byrds
+280	No One Like You	Scorpions
+281	Synchronicity 2	Police
+282	The Boys of Summer	Henley, Don
+283	Time Stand Still	Rush
+284	Woodstock	CSN&Y
+285	Touch Of Grey	Grateful Dead
+286	Paperback Writer	Beatles
+287	China Grove	Doobie Brothers
+288	Deacon Blues	Steely Dan
+289	Sympathy For The Devil	Rolling Stones
+290	Move It On Over	Thorogood, George
+291	Somebody To Love	Queen
+292	Mary Jane's Last Dance	Petty, Tom
+293	Crazy Train	Ozzy Osbourne
+294	Misty Mountain Hop	Led Zeppelin
+295	Run Like Hell	Pink Floyd
+296	Crossfire	Vaughan, Stevie Ray
+297	Lovely Rita	Beatles
+298	Pink Houses	Mellencamp, John
+299	Gimme Three Steps	Lynyrd Skynyrd
+300	Hey Joe	Hendrix, Jimi
+301	Break On Through	Doors
+302	I'm Eighteen	Cooper, Alice
+303	Love Alive	Heart
+304	Golden Slumbers Medley	Beatles
+305	Got Me Under Pressure	ZZ Top
+306	Funeral for a Friend	John, Elton
+307	Long Cool Woman In A Black Dress	Hollies
+308	Swingtown	Miller, Steve
+309	Funk 49	James Gang
+310	Evil Woman	ELO
+311	Magic Bus	Who
+312	Pride	U2
+313	Changes	Bowie, David
+314	Miss You	Rolling Stones
+315	The Waiting	Petty, Tom
+316	The Story In Your Eyes	Moody Blues
+317	Imagine	Lennon, John
+318	I Thank You 	ZZ Top
+319	Say You Love Me	Fleetwood Mac
+320	Take Me Home Tonight	Money, Eddie
+321	Wrapped Around Your Finger	Police
+322	Hot Rod Lincoln	Commander Cody
+323	Still You Turn Me On	ELP
+324	Walk On The Wild Side	Reed, Lou
+325	Voodoo Chile	Vaughan, Stevie Ray
+326	30 Days In The Hole	Humble Pie
+327	Those Shoes	Eagles
+328	I Hear You Knocking	Edmunds, Dave
+329	Foolin Yourself	Styx
+330	Ice Cream Man	Van Halen
+331	Let Me Take You Home Tonight	Boston
+332	You Wreck Me	Petty, Tom
+333	All She Wants To Do Is Dance	Henley, Don
+334	There's No Way Out Of Here	Gilmour, David
+335	What Is and What Should Never Be	Led Zeppelin
+336	Live and Let Die	McCartney, Paul
+337	Somebody To Love	Jefferson Airplane
+338	Old Man	Young, Neil
+339	1984/Jump	Van Halen
+340	Cold Shot	Vaughan, Stevie Ray
+341	Peg	Steely Dan
+342	Sharp Dressed Man	ZZ Top
+343	Sweet Child O' Mine	Guns 'N' Roses
+344	Tumbling Dice	Rolling Stones
+345	Carry On	CSN&Y
+346	Free Fallin'	Petty, Tom
+347	Blinded By The Light	Mann, Manfred
+348	Us and Them	Pink Floyd
+349	Jungle Love	Miller, Steve
+350	Under My Thumb	Rolling Stones
+351	Into The Great Wide Open	Petty, Tom
+352	Suite: Judy Blue Eyes	CS&N
+353	Tenth Avenue Freeze Out	Springsteen, Bruce
+354	Running On Empty	Browne, Jackson
+355	Show Me The Way	Frampton, Peter
+356	Red House	Hendrix, Jimi
+357	Landslide	Fleetwood Mac
+358	Hello Goodbye	Beatles
+359	Jack And Diane	Mellencamp, John
+360	Tightrope	Vaughan, Stevie Ray
+361	Mississippi Queen	Mountain
+362	Rock On	Essex, David
+363	Mother	Pink Floyd
+364	I Shot The Sheriff	Clapton, Eric
+365	That's All	Genesis
+366	Jailbreak	Thin Lizzy
+367	I Won't Back  Down	Petty, Tom
+368	Life In The Fast Lane	Eagles
+369	In The Mood	Plant, Robert
+370	Candle in the Wind	John, Elton
+371	Babe I'm Gonna Leave You	Led Zeppelin
+372	Heartbreaker/Livin' Lovin' Maid	Led Zeppelin
+373	Sledgehammer	Gabriel, Peter
+374	Layla (Unplugged)	Clapton, Eric
+375	Can't You Hear Me Knocking?	Rolling Stones
+376	I Want You To Want Me	Cheap Trick
+377	One Of These Nights	Eagles
+378	Travelin' Man/Beautiful Loser	Seger, Bob
+379	Long Long Way From Home	Foreigner
+380	Up Around The Bend	CCR
+381	Fat Bottomed Girls	Queen
+382	Jesus Is Just Alright With Me	Doobie Brothers
+383	Shattered	Rolling Stones
+384	Hard To Handle	Black Crowes
+385	You're My Best Friend	Queen
+386	Where The Streets Have No Name	U2
+387	Whiter Shade Of Pale	Procol Harum
+388	Learning To Fly	Pink Floyd
+389	What's Your Name?	Lynyrd Skynyrd
+390	Time of the Season	Zombies
+391	The Heart of The Matter	Henley, Don
+392	Rock And Roll All Night	Kiss
+393	Back In The USSR	Beatles
+394	After Midnight	Clapton, Eric
+395	Learning To Fly	Petty, Tom
+396	Love Reign O'er Me	Who
+397	Trampled Underfoot	Led Zeppelin
+398	Brown Sugar	Rolling Stones
+399	Legs	ZZ Top
+400	End Of The Line	Traveling Wilburys
+401	Madman Across The Water	John, Elton
+402	Mr. Soul	Buffalo Springfield
+403	Home By The Sea, Parts 1&2	Genesis
+404	When The Levee Breaks	Led Zeppelin
+405	Green Eyed Lady	SugarLoaf
+406	I'm On Fire	Springsteen, Bruce
+407	Back In The Saddle	Aerosmith
+408	Doctor My Eyes	Browne, Jackson
+409	Harmony	John, Elton
+410	Lady Madonna	Beatles
+411	Long As I Can See The Light	CCR
+412	Solsbury Hill	Gabriel, Peter
+413	Message In A Bottle	Police
+414	Tears In Heaven	Clapton, Eric
+415	Roll On Down The Highway	BTO
+416	Back Door Man	Doors
+417	Come Sail Away	Styx
+418	If I Needed Someone	Beatles
+419	Heartache Tonight	Eagles
+420	Lookin' Out My Back Door	CCR
+421	Even In The Quietest Moments	Supertramp
+422	Let It Ride	BTO
+423	Living In The Past	Jethro Tull
+424	Hold Your Head Up	Argent
+425	Teach Your Children	CSN&Y
+426	Abacab	Genesis
+427	Girls Got Rhythm	AC/DC
+428	Brass in Pocket	Pretenders
+429	Point of Know Return	Kansas
+430	Blue Morning Blue Day	Foreigner
+431	My Old School	Steely Dan
+432	Tunnel Of Love	Springsteen, Bruce
+433	Tuesday Afternoon	Moody Blues
+434	Black Dog	Led Zeppelin
+435	With A Little Help From My Friends	Cocker, Joe
+436	Jane	Jefferson Starship
+437	White Wedding	Idol, Billy
+438	Get Together	Youngbloods
+439	Hit Me With Your Best Shot	Benatar, Pat
+440	Paint It Black	Rolling Stones
+441	Twenty-Five Or Six To Four	Chicago
+442	Roundabout	Yes
+443	Pinball Wizard	Who
+444	Double Vision	Foreigner
+445	Uncle Albert	McCartney, Paul
+446	Subterranean Homesick Blues	Dylan, Bob
+447	Taxman	Beatles
+448	Rock Steady	Bad Company
+449	Hungry Heart	Springsteen, Bruce
+450	I Need To Know	Petty, Tom
+451	Dazed And Confused	Led Zeppelin
+452	Roadhouse Blues	Doors
+453	Your Wildest Dreams	Moody Blues
+454	Mona Lisas And Mad Hatters	John, Elton
+455	Beast Of Burden	Rolling Stones
+456	Takin' Care Of Business	BTO
+457	I Love Rock and Roll	Jett, Joan
+458	Same Old Song And Dance	Aerosmith
+459	Silver, Blue and Gold	Bad Company
+460	I Wouldn't Want To Be Like You	Parsons, Alan, Project
+461	Wheel in The Sky	Journey
+462	What I Like About You	Romantics
+463	Pretending	Clapton, Eric
+464	Lucy In The Sky 	Beatles
+465	Low Spark of High Heeled Boys	Traffic
+466	Heart Of Gold	Young, Neil
+467	Cherry Bomb	Mellencamp, John
+468	It's In The Way	Clapton, Eric
+469	Mysterious Ways	U2
+470	Twentieth Century Fox	Doors
+471	Crystal Ship	Doors
+472	Desperado	Eagles
+473	My City Was Gone	Pretenders
+474	New World Man	Rush
+475	Running On Faith	Clapton, Eric
+476	Lunatic Fringe	Red Rider
+477	Strange Brew	Cream
+478	Lodi	CCR
+479	Honky Cat	John, Elton
+480	Don't Stop	Fleetwood Mac
+481	Fire	Springsteen, Bruce
+482	Lights	Journey
+483	Bad Case Of Lovin' You	Palmer, Robert
+484	Old Man Down The Road	Fogerty, John
+485	Last Child	Aerosmith
+486	Rikki Don't Lose That Number	Steely Dan
+487	Straight On	Heart
+488	Changes	Yes
+489	Seagull	Bad Company
+490	Instant Karma	Lennon, John
+491	Time Has Come Today	Chambers Brothers
+492	Casey Jones	Grateful Dead
+493	So Far Away	Dire Straits
+494	Listen To Her Heart	Petty, Tom
+495	Midnight Rider	Allman, Gregg
+496	Pretty Woman	Van Halen
+497	Jukebox Hero	Foreigner
+498	Tequila Sunrise	Eagles
+499	Love The One You're With	Stills, Stephen
+500	Drive My Car	Beatles
+501	Hollywood Nights 	Seger, Bob
+502	Don't Stand So Close To Me	Police
+503	Paradise by the Dashboard Lights	Meatloaf
+504	Even The Losers	Petty, Tom
+505	T. N. T.	AC/DC
+506	Wooden Ships	CS&N
+507	Suite Madam Blue	Styx
+508	Photograph	Def Leppard
+509	While You See A Chance	Winwood, Stevie
+510	Closer To The Heart	Rush
+511	Soul Kitchen	Doors
+512	Wild Horses	Rolling Stones
+513	Ride My See-Saw	Moody Blues
+514	Southern Cross	CS&N
+515	We're An American Band	Grand Funk Railroad
+516	No Time	Guess Who
+517	Squeeze Box	Who
+518	Spirit In The Sky	Greenbaum, Norman
+519	Woman From Tokyo	Deep Purple
+520	The Ocean	Led Zeppelin
+521	Bye Bye Love	Cars
+522	Gimme All Your Lovin'	ZZ Top
+523	Lyin' Eyes	Eagles
+524	Truckin'	Grateful Dead
+525	Surrender	Cheap Trick
+526	The Ballad of John And Yoko	Beatles
+527	King Of Pain	Police
+528	I Can See For Miles	Who
+529	Janie's Got A Gun	Aerosmith
+530	Stone Free	Hendrix, Jimi
+531	Southern Man	Young, Neil
+532	It's Only Rock And Roll	Rolling Stones
+533	Suffragette City	Bowie, David
+534	One Way Out	Allman Brothers
+535	Godzilla	Blue Oyster Cult
+536	Listen To The Music	Doobie Brothers
+537	Eminence Front	Who
+538	Follow You Follow Me	Genesis
+539	I Need A Lover	Mellencamp, John
+540	Born Under A Bad Sign	Cream
+541	Walk Of Life	Dire Straits
+542	Stand Back	Nicks, Stevie
+543	Lonely is the Night	Squire, Billy
+544	Big Ten Inch Record	Aerosmith
+545	Don't Let The Sun Go Down On Me	John, Elton
+546	Hey Nineteen	Steely Dan
+547	Gimme Some Lovin'	Davis Group, Spencer
+548	Her Strut	Seger, Bob
+549	And The Cradle Will Rock	Van Halen
+550	Journey To The Center Of The Mind	Amboy Dukes
+551	Turn, Turn, Turn	Byrds
+552	Over My Head	Fleetwood Mac
+553	Suzie Q	CCR
+554	No Matter What	Badfinger
+555	Young Americans	Bowie, David
+556	Who's Crying Now	Journey
+557	In The City	Eagles
+558	Something	Beatles
+559	Castles Made of Sand	Hendrix, Jimi
+560	Hurts So Good	Mellencamp, John
+561	Bouree	Jethro Tull
+562	Sara	Fleetwood Mac
+563	Dirty Work	Steely Dan
+564	Little Wing	Vaughan, Stevie Ray
+565	Fire Down Below	Seger, Bob
+566	The Bomber	James Gang
+567	Heartless	Heart
+568	Addicted To Love	Palmer, Robert
+569	Lovin' Touchin Squeezin'	Journey
+570	Every Picture Tells A Story	Stewart, Rod
+571	I'm A Man	Chicago
+572	Misunderstanding	Genesis
+573	Band On The Run	McCartney, Paul
+574	Bang A Gong	T. Rex
+575	On The Road Again	Canned Heat
+576	It's All Over Now	Rolling Stones
+577	Two Tickets To Paradise	Money, Eddie
+578	Where To Now Saint Peter	John, Elton
+579	Born on the Bayou	CCR
+580	Marrakesh Express	CS&N
+581	Boom Boom (Out Go The Lights)	Travers, Pat
+582	Watching the Wheels	Lennon, John
+583	D'yer Maker	Led Zeppelin
+584	Time Machine	Grand Funk Railroad
+585	Can't Get Enough	Bad Company
+586	No Sugar Tonight	Guess Who
+587	Saturday Night Special	Lynyrd Skynyrd
+588	Don't Try and Lay No Boogie 	Baldry, Long John
+589	Do Ya	ELO
+590	You Better You Bet	Who
+591	Satisfaction Guaranteed	Firm
+592	Authority Song	Mellencamp, John
+593	Jet	McCartney, Paul
+594	Just A Job To Do	Genesis
+595	Manic Depression	Hendrix, Jimi
+596	Hold On Loosely	Thirty-Eight Special
+597	Ship Of Fools	Plant, Robert
+598	Room To Move	Mayall, John
+599	Dog And Butterfly	Heart
+600	I Know I'm Losing You	Stewart, Rod
+601	Let It Bleed	Rolling Stones
+602	Baby Hold On	Money, Eddie
+603	All The Young Dudes	Mott The Hoople
+604	You Might Think	Cars
+605	Uncle John's Band	Grateful Dead
+606	We Gotta Get Out Of This Place	Animals
+607	Ah! Leah!	Iris, Donnie
+608	Ramblin' Man	Allman Brothers
+609	Blue Collar	BTO
+610	Traveling Riverside Blues	Led Zeppelin
+611	Industrial Disease	Dire Straits
+612	Can't Find My Way Home	Blind Faith
+613	Good Lovin' Gone Bad	Bad Company
+614	All The Girls Love Alice	John, Elton
+615	The Weight	Band, The
+616	Rebel, Rebel	Bowie, David
+617	Black Friday	Steely Dan
+618	Nothing Is Easy	Jethro Tull
+619	World Turning 	Fleetwood Mac
+620	Ain't Too Proud To Beg	Rolling Stones
+621	You Got That Right	Lynyrd Skynyrd
+622	Peaceful Easy Feeling	Eagles
+623	Love Hurts	Nazareth
+624	Urgent	Foreigner
+625	If You Wanna To Get To Heaven	Ozark Mountain Daredevils
+626	Rock 'n' Roll Never Forgets	Seger, Bob
+627	Baby I Love Your Way	Frampton, Peter
+628	Long Time Gone	CS&N
+629	Thunder Road	Springsteen, Bruce
+630	Proud Mary	CCR
+631	Tie Your Mother Down	Queen
+632	Feels Like The First Time	Foreigner
+633	Highway Star	Deep Purple
+634	The Long Run	Eagles
+635	Melissa	Allman Brothers
+636	I Got A Line On You	Spirit
+637	One Bourbon, One Scotch, One 	Thorogood, George
+638	Love Stinks	J. Geils Band
+639	Old Time Rock 'n Roll	Seger, Bob
+640	Good Lovin'	Rascals
+641	What It Takes	Aerosmith
+642	Gloria	Them
+643	Take Me To The River	Talking Heads
+644	The Cowboy Song	Thin Lizzy
+645	Five Fifteen	Who
+646	We're Not Going To Take It	Who
+647	Waiting On A Friend	Rolling Stones
+648	Run With The Pack	Bad Company
+649	Loco-Motion	Grand Funk Railroad
+650	Iron Man	Black Sabbath
+651	Good Times Bad Times	Led Zeppelin
+652	Burn Down The Mission	John, Elton
+653	Angry Eyes	Loggins and Messina
+654	Got To Get You Into My Life	Beatles
+655	I Am The Walrus	Beatles
+656	Ain't That A Shame	Cheap Trick
+657	Hot Blooded	Foreigner
+658	Tangled Up In Blue	Dylan, Bob
+659	Renegade	Styx
+660	Stay With Me	Faces
+661	Ain't Wastin' Time No More	Allman Brothers
+662	Cinnamon Girl	Young, Neil
+663	Forever Man	Clapton, Eric
+664	Green Grass and High Tides	Outlaws
+665	End Of The Innocence	Henley, Don
+666	Friend of the Devil	Grateful Dead
+667	Born In The USA	Springsteen, Bruce
+668	Back In The High Life	Winwood, Stevie
+669	Kick It Out	Heart
+670	Samba Pa Ti	Santana
+671	Crazy Little Thing Called Love	Queen
+672	You're Lost Little Girl	Doors
+673	Beautiful Girls	Van Halen
+674	We've Got Tonight	Seger, Bob
+675	Bad	U2
+676	Dreamer	Supertramp
+677	Heartbreaker	Rolling Stones
+678	Mother Nature's Son	Beatles
+679	FM	Steely Dan
+680	Black Betty	Ram Jam
+681	I Drink Alone	Thorogood, George
+682	Live Wire	AC/DC
+683	Mercedes Benz	Joplin, Janis
+684	Portrait	Kansas
+685	Mr. Tambourine Man	Byrds
+686	Take It To The Limit	Eagles
+687	Stealin'	Uriah Heep
+688	For Your Love	Yardbirds
+689	Athena	Who
+690	Does Anybody Really Know What 	Chicago
+691	I'm Bad I'm Nationwide	ZZ Top
+692	In-A-Gadda-Da-Vida	Iron Butterfly
+693	Sunset Grill	Henley, Don
+694	Angel	Hendrix, Jimi
+695	Time Is On My Side	Rolling Stones
+696	Travelin' Band	CCR
+697	The Pusher	Steppenwolf
+698	Communication Breakdown	Led Zeppelin
+699	Into The Mystic	Morrison, Van
+700	Immigration Man	Nash & Crosby
+701	Conquistador	Procol Harum
+702	The Real Me	Who
+703	The Witch	Sonics, The
+704	Tubesnake Boogie	ZZ Top
+705	I Feel Free	Cream
+706	Mama Kin	Aerosmith
+707	Magical Mystery Tour	Beatles
+708	Hocus Pocus	Focus
+709	Goin' Up the Country	Canned Heat
+710	Dangerous Type	Cars
+711	Jump Into The FIre	Nilsson, Harry
+712	She's So Cold	Rolling Stones
+713	Europa	Santana
+714	Brilliant Disguise	Springsteen, Bruce
+715	Sky Pilot	Animals
+716	Mandolin Wind	Stewart, Rod
+717	Kentucky Woman	Deep Purple
+718	New Kid In Town	Eagles
+719	Silver Springs	Fleetwood Mac
+720	Undun	Guess Who
+721	I Don't Need No Doctor	Humble Pie
+722	Right Place, Wrong Time	Dr. John
+723	Ruby Tuesday	Rolling Stones
+724	Incense and Peppermints	Strawberry Alarm Clock
+725	Ready For Love	Bad Company
+726	The Trees	Rush
+727	Rock And Roll Music	Beatles
+728	I Love The Night	Blue Oyster Cult
+729	Legend of a Mind	Moody Blues
+730	Cover Of The Rolling Stone	Dr. Hook
+731	Leather and Lace	Nicks, Stevie & Henley, Don
+732	American Girl	Petty, Tom
+733	Happy Jack	Who
+734	Give It To Me	J. Geils Band
+735	On The Turning Away	Pink Floyd
+736	Third Stone From The Sun	Hendrix, Jimi
+737	Saturday Night's Alright For Fighting	John, Elton
+738	I'm No Angel	Allman, Gregg
+739	Shoot To Thrill	AC/DC
+740	Down by the Seaside	Led Zeppelin
+741	Lay Down Sally	Clapton, Eric
+742	Get It While You Can	Joplin, Janis
+743	Low Rider	War
+744	Good Golly Miss Molly	CCR
+745	Dark Star	CS&N
+746	Twistin' The Night Away	Stewart, Rod
+747	I Just Wanna Make Love To You	Foghat
+748	Dream Weaver	Wright, Gary
+749	Jean Jeanie	Bowie, David
+750	Feel Your Love Tonight	Van Halen
+751	Good Lovin'	Grateful Dead
+752	Dizzy Miss Lizzy	Beatles
+753	In Memory of Elizabeth Reed	Allman Brothers
+754	Some Kind of Wonderful	Grand Funk Railroad
+755	A New Day Yesterday	Jethro Tull
+756	Mercury Blues	Miller, Steve
+757	Dreams I'll Never See	Molly Hatchet
+758	Welcome To The Machine	Pink Floyd
+759	Fooled Around and Fell In Love	Bishop, Elvin
+760	The Letter	Cocker, Joe
+761	The House Is Rockin'	Vaughan, Stevie Ray
+762	One 	U2
+763	One	Three Dog Night
+764	My Home Town	Springsteen, Bruce
+765	I Should Have Known Better	Beatles
+766	Under Pressure	Queen
+767	I Put A Spell On You	CCR
+768	Seven Bridges Road	Eagles
+769	Hypnotized	Fleetwood Mac
+770	I Ain't Superstitious	Jeff Beck
+771	Heart Of Stone	Rolling Stones
+772	I Just Want To Celebrate	Rare Earth
+773	Goodbye Stranger	Supertramp
+774	I Saw The LIght	Rundgren, Todd
+775	Tuff Enuff	Fabulous Thunderbirds
+776	Glass Onion	Beatles
+777	Anyway You Want It	Journey
+778	Oh, Atlanta	Little Feat
+779	A Woman In Love	Petty, Tom
+780	Substitute	Who
+781	The Needle And The Damage Done	Young, Neil
+782	These Eyes	Guess Who
+783	Simple Man	Lynyrd Skynyrd
+784	When The Music's Over	Doors
+785	Stuck In The Middle With You	Stealers Wheel
+786	Blackbird	Beatles
+787	Can't Get It Out Of My Head	ELO
+788	Shakin'	Money, Eddie
+789	Not Fade Away	Rolling Stones
+790	Shooting Star	Bad Company
+791	Amie	Pure Prarie League
+792	She Loves My Automobile	ZZ Top
+793	Big Log	Plant, Robert
+794	Twilight Zone	Golden Earring
+795	I'm Free	Who
+796	On The Hunt	Lynyrd Skynyrd
+797	Nineteen Hundred And Eighty-Five	McCartney, Paul
+798	Shapes of Things	Yardbirds
+799	Midnight Special	CCR
+800	Forty-Nine Bye-Byes	CS&N
+801	Crocodile Rock	John, Elton
+802	Boogie With Stu	Led Zeppelin
+803	Ramblin' Gamblin' Man	Seger, Bob
+804	White Bird	It's A Beautiful Day
+805	Hey Bulldog	Beatles
+806	Two Of Us	Beatles
+807	Empty Arms	Vaughan, Stevie Ray
+808	Skating Away	Jethro Tull
+809	Rough Boys	Townshend, Pete
+810	Jukebox Music	Kinks
+811	Children of the Sun	Thorpe, Billy
+812	Rockin' Down The Highway	Doobie Brothers
+813	Feelin' Alright	Traffic
+814	Alone	Heart
+815	Move Over	Joplin, Janis
+816	Tupelo Honey	Morrison, Van
+817	Helplessly Hoping	CS&N
+818	Get Off My Cloud	Rolling Stones
+819	Don't Ask Me No Questions	Lynyrd Skynyrd
+820	Lawyers Guns And Money	Zevon, Warren
+821	Rockin' In The Free World	Young, Neil
+822	Pearl Necklace	ZZ Top
+823	Lazy	Deep Purple
+824	Oh Darling	Beatles
+825	WASP	Doors
+826	Tusk	Fleetwood Mac
+827	Take The Highway	Marshall Tucker Band
+828	She's Not There	Zombies
+829	Grey Seal	John, Elton
+830	Rudy	Supertramp
+831	I'm Going Home	Ten Years After
+832	The Song Is Over	Who
+833	Hair Of The Dog	Nazareth
+834	Hey You	Pink Floyd
+835	A Horse With No Name	America
+836	Tall Cool One	Plant, Robert
+837	Little Wing	Hendrix, Jimi
+838	Don't Let Me Down	Beatles
+839	Voodoo Chile	Hendrix, Jimi
+840	Mistral Wind	Heart
+841	The Last Worthless Evening	Henley, Don
+842	No One To Depend On	Santana
+843	Sunshine Superman	Donovan
+844	Helen Wheels	McCartney, Paul
+845	Do You Know What I Mean	Michaels, Lee
+846	Livin' In The USA	Miller, Steve
+847	Go All The Way	Raspberries
+848	Far Away Eyes	Rolling Stones
+849	Mainstreet	Seger, Bob
+850	Tell Her No	Zombies
+851	It Don't Come Easy	Starr, Ringo
+852	No More Mr. Nice Guy	Cooper, Alice
+853	Showbiz Kids	Steely Dan
+854	I Can't Explain	Who
+855	All Day and All of the Night	Kinks
+856	Tomorrow Never Knows	Beatles
+857	Couldn't Stand The Weather	Vaughan, Stevie Ray
+858	Stone Cold	Rainbow
+859	De-Do-Do-Do, De-Da-Da-Da	Police
+860	Mother's Little Helper	Rolling Stones
+861	Domino	Morrison, Van
+862	Wild Thing	Troggs
+863	Don't Bring Me Down	Animals
+864	Dolly Dagger	Hendrix, Jimi
+865	Cat Scratch Fever	Nugent, Ted
+866	My My, Hey Hey	Young, Neil
+867	Amazing Journey/Sparks	Who
+868	Centerfield	Fogerty, John
+869	We Can Work It Out	Beatles
+870	Destroyer	Kinks
+871	She Said, She Said	Beatles
+872	Four and Twenty	CSN&Y
+873	She's Not There	Santana
+874	Zoo, The	Scorpions
+875	Ukiah/The Captain and Me	Doobie Brothers
+876	I'll Wait	Van Halen
+877	Walkin' The Dog	Aerosmith
+878	I Know I'm Losing You	Rare Earth
+879	You'll Accomp'ny Me	Seger, Bob
+880	Keep Your Hands to Yourself	Georgia Satellites
+881	Cry Baby Cry	Beatles
+882	Before You Accuse Me	Clapton, Eric
+883	Baby Please Don't Go	Amboy Dukes
+884	Gypsy	Fleetwood Mac
+885	Take Me To The Pilot	John, Elton
+886	Bron-y-aur Stomp	Led Zeppelin
+887	Gallows Pole	Led Zeppelin
+888	You Don't Know How It Feels	Petty, Tom
+889	See Emily Play	Pink Floyd
+890	Happy	Rolling Stones
+891	I Fought The Law	Fuller Four, Bobby
+892	Yesterday	Beatles
+893	Day After Day	Badfinger
+894	Spill The WIne	War
+895	After The Goldrush	Young, Neil
+896	Fool For Your Stockings	ZZ Top
+897	Feelin Satisfied	Boston
+898	E.T.I.	Blue Oyster Cult
+899	Don't Stop Believin'	Journey
+900	Summertime	Joplin, Janis
+901	Jim Dandy	Black Oak Arkansas
+902	Moonlight Drive	Doors
+903	Flirtin' With Disaster	Molly Hatchet
+904	Let Me Roll It	McCartney, Paul
+905	Hurdy Gurdy Man	Donovan
+906	Heart Full of Soul	Yardbirds
+907	Love Is Alive	Wright, Gary
+908	Radioactive	Firm
+909	Best Of My Love	Eagles
+910	Just Like A Woman	Dylan, Bob
+911	Ziggy Stardust	Bowie, David
+912	Farm on the Freeway	Jethro Tull
+913	Beth	Kiss
+914	The Voice	Moody Blues
+915	Hello, It's Me	Rundgren, Todd
+916	Revival	Allman Brothers
+917	Nowhere Man	Beatles
+918	How Many More Times	Led Zeppelin
+919	Tight Rope	Russell, Leon
+920	Pretzel Logic	Steely Dan
+921	In God's Country	U2
+922	Only Time Will Tell	Asia
+923	Fame	Bowie, David
+924	Even It Up	Heart
+925	You've Got Another Thing Coming	Judas Priest
+926	Wild Night	Morrison, Van
+927	Superstition	Vaughan, Stevie Ray
+928	Don't Let Me Be Misunderstood	Animals
+929	Keep Playin' That Rock 'n Roll	Winter Group, Edgar
+930	The Continuing Story of Bungalow	Beatles
+931	Ride On	AC/DC
+932	Proud Mary	Turner, Ike and Tina
+933	Victoria	Kinks
+934	Peace Train	Stevens, Cat
+935	The Alabama Song	Doors
+936	School's Out	Cooper, Alice
+937	Bungle in the Jungle	Jethro Tull
+938	Never Going Back Again	Fleetwood Mac
+939	Sugaree	Garcia, Jerry
+940	Victim of Love	Eagles
+941	That's The Way	Led Zeppelin
+942	Pigs	Pink Floyd
+943	Here Comes My Girl	Petty, Tom
+944	It Wasn't Me	Thorogood, George
+945	Get Ready	Rare Earth
+946	Play With Fire	Rolling Stones
+947	Come And Get It	Badfinger
+948	Rock And Roll Woman	Buffalo Springfield
+949	Down By The River	Young, Neil
+950	Fire and Water	Free
+951	Cry Baby	Joplin, Janis
+952	The Rain Song	Led Zeppelin
+953	Well All Right	Santana
+954	Yours Is No Disgrace	Yes
+955	I Can't Tell You Why	Eagles
+956	It Ain't Me Babe	Dylan, Bob
+957	I've Just Seen A Face	Beatles
+958	Whippin' Post	Allman Brothers
+959	Keep Yourself Alive	Queen
+960	Prove It All Night	Springsteen, Bruce
+961	Ten Years Gone	Led Zeppelin
+962	Piano Man	Joel, Billy
+963	Wait Until Tomorrow	Hendrix, Jimi
+964	Turn It On Again	Genesis
+965	Heard It On The X	ZZ Top
+966	The Lemon Song	Led Zeppelin
+967	I'm Looking Through You	Beatles
+968	It's My Life	Animals
+969	I Don't Wanna Know	Fleetwood Mac
+970	Don't Bring Me Down	ELO
+971	Signs	Five Man Electrical Band
+972	Young Man Blues	Who
+973	Too Rolling Stoned	Trower, Robin
+974	Sugar Magnolia	Grateful Dead
+975	Dirty Water	Standells
+976	Monkey Man	Rolling Stones
+977	Wild Mountain Honey	Miller, Steve
+978	Needle And The Spoon	Lynyrd Skynyrd
+979	Tired Of Waiting	Kinks
+980	Another Park Another Sunday	Doobie Brothers
+981	Foot Stompin' Music	Grand Funk Railroad
+982	Green River	CCR
+983	Someone Saved My Life Tonight	John, Elton
+984	Freeway Jam	Beck, Jeff
+985	Statesboro Blues	Allman Brothers
+986	Bring It On Home	Led Zeppelin
+987	Crumblin' Down	Mellencamp, John
+988	Live With Me	Rolling Stones
+989	Everything's Coming Our Way	Santana
+990	In The Evening	Led Zeppelin
+991	Bell Bottom Blues	Derek And The Dominos
+992	Don't Take Me Alive	Steely Dan
+993	Let's Dance	Bowie, David
+994	Beginnings	Chicago
+995	I'm Just A Singer	Moody Blues
+996	Strange Magic	ELO
+997	Great White Buffalo	Ted Nugent
+998	Outlaw Man	Eagles
+999	Get Out Of Denver	Seger, Bob
+1000	Flying High Again	Ozzy Osbourne
+ 
