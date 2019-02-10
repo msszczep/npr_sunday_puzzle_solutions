@@ -1,0 +1,3 @@
+; Name a well-known rock band in three words. Change the first and third letters to the first and third letters of the alphabet — that is, A and C. You can rearrange the result to name another famous rock band in three words. What is it?
+
+Select[EntityList["MusicAct"], Length[StringSplit[EntityValue[#, "Name"]]] == 3 &]
