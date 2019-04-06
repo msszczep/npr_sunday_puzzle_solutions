@@ -1,4 +1,4 @@
-(defproject mccawley-api "0.1.0-SNAPSHOT"
+(defproject npr-sunday-puzzle-solutions "0.1.0-SNAPSHOT"
   :description "NPR Sunday Puzzle"
   :url "https://github.com/msszczep/npr_sunday_puzzle_solutions"
   :dependencies [[org.clojure/clojure "1.8.0"]
