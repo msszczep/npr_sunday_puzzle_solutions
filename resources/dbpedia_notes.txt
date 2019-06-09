@@ -1,0 +1,11 @@
+SELECT ?subject WHERE {
+?subject rdf:type <http://dbpedia.org/ontology/Writer>.
+} ORDER BY ?subject OFFSET 0
+
+; add offset max 10000 because downloads are capped at 10000 
+
+http://dbpedia.org/sparql
+
+http://mappings.dbpedia.org/server/ontology/classes/
+
+
