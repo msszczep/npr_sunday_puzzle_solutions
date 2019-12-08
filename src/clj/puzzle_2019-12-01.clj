@@ -1,13 +1,9 @@
-;;  https://www.npr.org/2019/11/24/782295066/sunday-puzzle-made-up-phrases
+;; https://www.npr.org/2019/12/01/783853451/sunday-puzzle-name-the-third
 
 ;; Name something you find in a grocery store.  Two words.
 ;; Three letters in the first, six letters in the second. Switch the
 ;; third and seventh letters, and read the result backward.  The result
 ;; will name that same grocery item again.  What is it?
-
-
-(defn clean-up-word [word]
-  (clojure.string/replace word #"[^A-Z]" ""))
 
 
 (def all-words
