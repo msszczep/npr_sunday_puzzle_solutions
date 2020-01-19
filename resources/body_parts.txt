@@ -374,3 +374,90 @@ coronary artery
 corpuscle
 diastole
 erythrocyte
+fibrin
+heart
+heartbeat
+hemoglobin
+homeostasis
+leukocyte
+lymph
+lymphatic system
+lymph node
+lymphocyte
+pericardial cavity
+phagocyte
+plasma
+platelet
+portal system
+pulmonary artery
+pulmonary vein
+pump
+red blood cell
+Rhesus factor
+serum
+spleen
+systole
+thrombin
+thrombocyte
+ticker
+vascular system
+vein
+vena cava
+ventricle
+white blood cell
+ailimentary canal
+anus
+ascending colon
+bladder
+bowel
+cecum
+colon
+defecation
+descending colon
+digestive system
+duodenum
+enzyme
+esophagus
+excrement
+excretion
+feces
+gastric juice
+gastrointestinal tract
+gullet
+gut
+ileum
+intestine
+jejunum
+kishkes
+large intestine
+peristalsis
+pylorus
+rectum
+sigmoid flexure
+small intestine
+sphincter
+stomach
+transverse colon
+ureter
+urethra
+urinary bladder
+urinary tract
+urine
+villus
+alveolus
+bronchiole
+cilium
+diaphragm
+exhalation
+expiration
+inhalation
+inspiration
+intercostal muscle
+lung
+pleura
+pleural cavity
+respiration
+respiratory system
+sputum
+trachea
+adrenal gland
