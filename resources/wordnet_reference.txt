@@ -1,1 +1,2 @@
 http://wordnet.princeton.edu/wordnet/man/wndb.5WN.html
+http://wordnet.princeton.edu/wordnet/man/lexnames.5WN.html
