@@ -461,3 +461,16 @@ respiratory system
 sputum
 trachea
 adrenal gland
+adrenaline
+apocrine
+bile
+bile duct
+duct
+eccrine
+endocrine gland
+epinephrine
+exocrine gland
+follicle
+gallbladder
+gland
+
