@@ -1,0 +1,3 @@
+curl "https://api.datamuse.com/words?sp=three*&max=200"
+
+See also: www.datamuse.com/api/
