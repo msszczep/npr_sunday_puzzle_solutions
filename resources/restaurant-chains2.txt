@@ -1,0 +1,528 @@
+
+Fast food
+Asian
+Name
+Jollibee
+L&L Hawaiian Barbecue
+Manchu Wok
+Noodles & Company
+Panda Express
+Pei Wei Asian Diner
+Phở Hòa
+Pick Up Stix
+Yoshinoya
+Baked goods
+Name
+Au Bon Pain
+Auntie Anne's
+Bruegger's Bagels
+Cinnabon
+Corner Bakery Cafe
+Daylight Donuts
+Duck Donuts
+Einstein Bros. Bagels
+Great American Cookies
+Great Harvest Bread Company
+Honey Dew Donuts
+Insomnia Cookies
+Krispy Kreme
+Le Madeleine
+Le Pain Quotidien
+Mrs. Fields
+Pretzelmaker
+Shipley Do-Nuts
+Wetzel's Pretzels
+Winchell's Donuts
+Beef
+Name
+Gold Star Chili
+Shane's Rib Shack
+Skyline Chili
+Beverages
+Name
+Argo Tea
+Biggby Coffee
+Caribou Coffee
+The Coffee Bean & Tea Leaf
+Coffee Beanery
+Dunkin' Donuts
+Dunn Brothers Coffee
+Dutch Bros. Coffee
+Gloria Jean's Coffees
+Gregorys Coffee
+Heine Brothers'
+Intelligentsia Coffee & Tea
+Jamba Juice
+Juice It Up!
+Orange Julius
+Peet's Coffee
+Philz Coffee
+Planet Smoothie
+Robeks
+Seattle's Best Coffee
+Smoothie King
+Starbucks
+Tim Hortons
+Tropical Smoothie Cafe
+Chicken
+Name
+Bojangles' Famous Chicken 'n Biscuits
+Brown's Chicken & Pasta
+Boston Market
+Bush's Chicken
+Chester's International
+Chick-fil-A
+Chicken Express
+Church's Chicken
+Cluck-U Chicken
+El Pollo Loco
+Golden Chick
+Guthrie's
+Hartz Chicken
+KFC
+Lee's Famous Recipe Chicken
+Louisiana Famous Fried Chicken
+Pollo Campero
+Pollo Tropical
+Popeyes
+Raising Cane's Chicken Fingers
+Slim Chickens
+Smithfield's Chicken 'N Bar-B-Q
+Wingstop
+Zaxby's
+Zoës Kitchen
+Frozen desserts
+Name
+Baskin-Robbins
+Ben & Jerry's
+Braum's
+Bruster's Ice Cream
+Carvel
+Cold Stone Creamery
+Dairy Queen
+Dippin' Dots
+Fosters Freeze
+Friendly's
+Golden Spoon
+Graeter's
+Häagen-Dazs
+Handel's Homemade Ice Cream & Yogurt
+MaggieMoo's Ice Cream and Treatery
+Marble Slab Creamery
+Menchie's Frozen Yogurt
+Oberweis Dairy
+Pinkberry
+Red Mango
+Rita's Italian Ice
+Sweet Frog
+Tastee-Freez
+TCBY
+Tropical Sno
+Tutti Frutti Frozen Yogurt
+Yogen Früz
+Yogurtland
+Hamburgers
+Name
+A&W Restaurants
+Arctic Circle Restaurants
+Back Yard Burgers
+Big Boy
+Blake's Lotaburger
+BurgerFi
+Burger King
+Burger Street
+Burgerville
+Carl's Jr.
+Hardee's
+
+Los Angeles, California
+Rocky Mount, North Carolina
+
+1941
+1960
+
+Franklin, Tennessee
+Checkers
+Rally's
+
+Mobile, Alabama
+Louisville, Kentucky
+
+1985
+1986
+
+Tampa, Florida
+Cheeburger Cheeburger
+Cook Out
+Culver's
+Farmer Boys
+Fatburger
+Five Guys
+Freddy's Frozen Custard & Steakburgers
+Frisch's Big Boy
+Fuddruckers
+The Habit Burger Grill
+The Halal Guys
+Hwy 55 Burgers Shakes & Fries
+In-N-Out Burger
+Jack's
+Jack in the Box
+Krystal
+McDonald's
+Milo's Hamburgers
+Mooyah
+Original Tommy's
+Penguin Point
+Roy Rogers Restaurants
+Shake Shack
+Smashburger
+Sonic Drive-In
+Spangles
+Steak 'n Shake
+Swensons
+Umami Burger
+Wayback Burgers
+Wendy's
+Whataburger
+White Castle
+Zip's Drive-in
+Hot Dogs
+Name
+Hot Dog on a Stick
+James Coney Island
+Nathan's Famous
+Sneaky Pete's
+Portillo's Restaurants
+Wienerschnitzel
+Mexican-style/Tex-Mex
+Name
+Baja Fresh
+Cafe Rio
+California Tortilla
+Chipotle Mexican Grill
+Del Taco
+Green/Red Burrito
+El Taco Tote
+Fuzzy's Taco Shop
+La Salsa
+Moe's Southwest Grill
+Qdoba
+Rubio's Coastal Grill
+Salsarita's Fresh Mexican Grill
+Taco Bell
+Taco Bueno
+Taco Cabana
+Taco del Mar
+Taco John's
+Taco Mayo
+Taco Palenque
+Taco Time
+Tijuana Flats
+Wahoo's Fish Taco
+Pizza and Italian
+Name
+America's Incredible Pizza Company
+Blaze Pizza
+Cicis
+Domino's
+Donatos Pizza
+East of Chicago Pizza
+Fazoli's
+Fox's Pizza Den
+Gatti's Pizza
+Gino's Pizza and Spaghetti
+Giordano's Pizzeria
+Godfather's Pizza
+Happy's Pizza
+Hungry Howie's Pizza
+Jet's Pizza
+Little Caesars
+Marco's Pizza
+MOD Pizza
+Monical's Pizza
+Papa Gino's
+Papa John's Pizza
+Papa Murphy's
+Pieology Pizzeria
+Pizza Hut
+Pizza Inn
+Pizza Ranch
+Sbarro
+Uncle Maddio's Pizza Joint
+Villa Italian Kitchen
+Salad/Vegetarian/Vegan
+Name
+Saladworks
+Sweetgreen
+Veggie Grill
+Sandwiches
+Name
+Atlanta Bread Company
+Arby's
+Blimpie
+Camille's Sidewalk Cafe
+Capriotti's
+Charleys Philly Steaks
+Così
+Cousins Subs
+D'Angelo Grilled Sandwiches
+Daphne's Greek Cafe
+DiBella's
+Earl of Sandwich
+Eegee's
+Erbert & Gerbert's
+Firehouse Subs
+Great Wraps
+Jason's Deli
+Jerry's Subs & Pizza
+Jersey Mike's Subs
+Jimmy John's
+Lee's Sandwiches
+Lenny's Grill & Sub
+Lion's Choice
+McAlister's Deli
+Miami Grill
+Newk's Eatery
+Panera Bread
+Penn Station East Coast Subs
+Pita Pit
+Port of Subs
+Potbelly Sandwich Shop
+Pret a Manger
+Primo Hoagies
+Quiznos
+Rax Roast Beef
+Sandella's Flatbread Café
+Schlotzsky's
+Steak Escape
+Subway
+Togo's
+Tubby's
+Tudor's Biscuit World
+Which Wich?
+Seafood
+Name
+Arthur Treacher's
+Captain D's
+Long John Silver's
+Casual dining
+Main article: List of casual dining restaurant chains
+Casual dining restaurants below are split by the type of cuisine they serve.
+
+American
+Name
+Applebee's
+Bakers Square
+Beef O'Brady's
+Bennigan's
+BJ's Restaurant
+BJ's Restaurant & Brewhouse, BJ's Grill, and BJ's Pizza & Grill.
+
+Black Bear Diner
+Bob Evans Restaurant
+Boomerang Diner
+Cheddar's Scratch Kitchen
+The Cheesecake Factory
+Cooper's Hawk Winery & Restaurant
+Furr's
+South central
+
+Golden Corral
+Ground Round
+Hard Rock Cafe
+Hooters
+Houlihan's
+Houston's Restaurant
+with most branded as Houston's or Hillstone
+
+Huddle House
+J. Alexander's
+Johnny Rockets
+Lazy Dog Restaurant & Bar
+Luby's
+O'Charley's
+Old Country Buffet
+HomeTown Buffet
+
+Ryan Buffet
+
+1983
+1989
+
+1977
+
+Hollywood Park, Texas
+33 (HomeTown)
+
+16 (Ryan)
+
+Midwest
+California
+
+South & Midwest
+
+Rainforest Cafe
+Ruby Tuesday
+Ruby's Diner
+Rusty Bucket Restaurant & Tavern
+Seasons 52
+Shari's Cafe & Pies
+Shoney's
+Souplantation/Sweet Tomatoes
+Ted's Montana Grill
+TGI Fridays
+Twin Peaks
+Village Inn
+Yard House
+Asian/Asian Fusion
+Name
+Benihana
+HuHot Mongolian Grill
+Kona Grill
+P.F. Chang's China Bistro
+Roy's
+Green Elephant Vegetarian Bistro
+Bar/Brewpub
+Name
+Bar Louie
+HopCat
+Miller's Ale House
+Breakfast
+Name
+Denny's
+First Watch
+IHOP
+The Original Pancake House
+Perkins Restaurant and Bakery
+Waffle House
+Caribbean
+Name
+Bahama Breeze
+Jimmy Buffett's Margaritaville
+Chicken
+Name
+Buffalo Wild Wings
+Hooters
+Hurricane Grill & Wings
+Ker's WingHouse Bar & Grill
+European
+Name
+The Melting Pot
+Mimi's Cafe
+Olga's Kitchen
+Hamburger
+Name
+Islands
+Max & Erma's
+Red Robin
+Wahlburgers
+Mexican-style/Tex-Mex
+Name
+Chevys Fresh Mex
+Chili's
+Chuy's
+On the Border Mexican Grill & Cantina
+Pappasito's Cantina
+Italian
+Name
+Brio Tuscan Grill
+Buca di Beppo
+California Pizza Kitchen
+Carino's Italian
+Carrabba's Italian Grill
+Maggiano's Little Italy
+The Old Spaghetti Factory
+Olive Garden
+Romano's Macaroni Grill
+Valentino's
+Pizza
+Name
+Bertucci's
+Happy Joe's
+Mellow Mushroom
+Old Chicago Pizza & Taproom
+Rosati's Authentic Chicago Pizza
+Round Table Pizza
+Shakey's Pizza
+Uno Pizzeria & Grill
+Salad/Vegan
+Name
+Souper Salad
+Sandwiches
+Name
+Maid-Rite
+Seafood
+Name
+Bonefish Grill
+Bubba Gump Shrimp Company
+Eddie V's Prime Seafood
+Joe's Crab Shack
+Landry's Seafood
+Legal Sea Foods
+McCormick & Schmick's
+Pappadeaux Seafood Kitchen
+Red Lobster
+Southern/Barbecue
+Name
+Bill Miller Bar-B-Q
+Copeland's
+Cracker Barrel
+Dickey's Barbecue Pit
+Famous Dave's
+Grandy's
+Lucille's Smokehouse Bar-B-Que
+Pappas Bar-B-Q
+Red Hot & Blue
+Smokey Bones
+Sonny's BBQ
+Steakhouse
+Name
+Black Angus Steakhouse
+The Capital Grille
+Claim Jumper
+Del Frisco's Double Eagle Steakhouse
+Fleming's Prime Steakhouse & Wine Bar
+Fogo de Chão
+Logan's Roadhouse
+LongHorn Steakhouse
+Montana Mike's
+Morton's The Steakhouse
+Outback Steakhouse
+Ponderosa
+Bonanza Steakhouses
+
+Kokomo, Indiana
+Westport, Connecticut
+
+1963
+1965
+
+Plano, Texas
+Ruth's Chris Steak House
+Saltgrass Steak House
+Texas de Brazil
+Texas Roadhouse
+Tony Roma's
+Sizzler
+Western Sizzlin'
+Arcade and game centers
+Name
+Chuck E. Cheese's
+Dave & Busters
+Peter Piper Pizza
+Defunct
+Beefsteak Charlie's
+Bikinis Sports Bar & Grill
+Bill Knapp's
+Bugaboo Creek Steakhouse
+Chi Chi's
+Chicken in the Rough
+ESPN Zone
+Fresh Choice
+Good Earth
+Horne's
+Lone Star Steakhouse & Saloon
+Lyon's
+Red Barn
+ShowBiz Pizza Place
+York Steak House
