@@ -1,0 +1,118 @@
+1|H|Hydrogen|Greek elements hydro- and -gen, 'water-forming'
+2|He|Helium|Greek hḗlios, 'sun'
+3|Li|Lithium|Greek líthos, 'stone'
+4|Be|Beryllium|Beryl, a mineral (ultimately from the name of Belur in southern India[citation needed])
+5|B|Boron|Borax, a mineral (from Arabic bawraq)
+6|C|Carbon|Latin carbo, 'coal'
+7|N|Nitrogen|Greek nítron and -gen, 'niter-forming'
+8|O|Oxygen|Greek oxy- and -gen, 'acid-forming'
+9|F|Fluorine|Latin fluere, 'to flow'
+10|Ne|Neon|Greek néon, 'new'
+11|Na|Sodium|English (from medieval Latin) soda (the symbol Na is derived from New Latin natrium, coined from German Natron, 'natron')
+12|Mg|Magnesium|Magnesia, a district of Eastern Thessaly in Greece
+13|Al|Aluminium|alumina, from Latin alumen (gen. aluminis), 'bitter salt, alum'
+14|Si|Silicon|Latin silex, 'flint' (originally silicium)
+15|P|Phosphorus|Greek phōsphóros, 'light-bearing'
+16|S|Sulfur|Latin sulphur, 'brimstone'
+17|Cl|Chlorine|Greek chlōrós, 'greenish yellow'
+18|Ar|Argon|Greek argós, 'idle' (because of its inertness)
+19|K|Potassium|New Latin potassa, 'potash', iself from pot and ash (the symbol K is derived from Latin kalium)
+20|Ca|Calcium|Latin calx, 'lime'
+21|Sc|Scandium|Latin Scandia, 'Scandinavia'
+22|Ti|Titanium|Titans, the sons of the Earth goddess of Greek mythology
+23|V|Vanadium|Vanadis, an Old Norse name for the Scandinavian goddess Freyja
+24|Cr|Chromium|Greek chróma, 'colour'
+25|Mn|Manganese|Corrupted from magnesia negra; see Magnesium
+26|Fe|Iron|English word (the symbol Fe is derived from Latin ferrum)
+27|Co|Cobalt|German Kobold, 'goblin'
+28|Ni|Nickel|Nickel, a mischievous sprite of German miner mythology
+29|Cu|Copper|English word, from Latin cuprum, from Ancient Greek Kýpros 'Cyprus'
+30|Zn|Zinc|Most likely from German Zinke, 'prong' or 'tooth', though some suggest Persian sang, 'stone'
+31|Ga|Gallium|Latin Gallia, 'France'
+32|Ge|Germanium|Latin Germania, 'Germany'
+33|As|Arsenic|French arsenic, from Greek arsenikón 'yellow arsenic' (influenced by arsenikós, 'masculine' or 'virile'), from a West Asian wanderword ultimately from Old Iranian *zarniya-ka, 'golden'
+34|Se|Selenium|Greek selḗnē, 'moon'
+35|Br|Bromine|Greek brômos, 'stench'
+36|Kr|Krypton|Greek kryptós, 'hidden'
+37|Rb|Rubidium|Latin rubidus, 'deep red'
+38|Sr|Strontium|Strontian, a village in Scotland, where it was found
+39|Y|Yttrium|Ytterby, Sweden, where it was found
+40|Zr|Zirconium|Zircon, a mineral
+41|Nb|Niobium|Niobe, daughter of king Tantalus from Greek mythology
+42|Mo|Molybdenum|Greek molýbdaina, 'piece of lead', from mólybdos, 'lead', due to confusion with lead ore galena (PbS)
+43|Tc|Technetium|Greek tekhnētós, 'artificial'
+44|Ru|Ruthenium|New Latin Ruthenia, 'Russia'
+45|Rh|Rhodium|Greek rhodóeis, 'rose-coloured', from rhódon, 'rose'
+46|Pd|Palladium|Asteroid Pallas, considered a planet at the time
+47|Ag|Silver|English word (The symbol is derived from Latin argentum)
+48|Cd|Cadmium|New Latin cadmia, from King Kadmos
+49|In|Indium|Latin indicum, 'indigo' (colour found in its spectrum)
+50|Sn|Tin|English word (The symbol is derived from Latin stannum)
+51|Sb|Antimony|Latin antimonium, the origin of which is uncertain: folk etymologies suggest it is derived from Greek antí ('against') + mónos ('alone'), or Old French anti-moine, 'Monk's bane', but it could plausibly be from or related to Arabic ʾiṯmid, 'antimony', reformatted as a Latin word. (The symbol is derived from Latin stibium 'stibnite'.)
+52|Te|Tellurium|Latin tellus, 'the ground, Earth'
+53|I|Iodine|French iode, from Greek ioeidḗs, 'violet'
+54|Xe|Xenon|Greek xénon, neuter form of xénos 'strange'
+55|Cs|Caesium|Latin caesius, 'sky-blue'
+56|Ba|Barium|Greek barýs, 'heavy'
+57|La|Lanthanum|Greek lanthánein, 'to lie hidden'
+58|Ce|Cerium|Dwarf planet Ceres, considered a planet at the time it was discovered
+59|Pr|Praseodymium|Greek prásios dídymos, 'green twin'
+60|Nd|Neodymium|Greek néos dídymos, 'new twin'
+61|Pm|Promethium|Prometheus of Greek mythology
+62|Sm|Samarium|Samarskite, a mineral named after Colonel Vasili Samarsky-Bykhovets, Russian mine official
+63|Eu|Europium|Europe
+64|Gd|Gadolinium|Gadolinite, a mineral named after Johan Gadolin, Finnish chemist, physicist and mineralogist
+65|Tb|Terbium|Ytterby, Sweden, where it was found
+66|Dy|Dysprosium|Greek dysprósitos, 'hard to get'
+67|Ho|Holmium|New Latin Holmia, 'Stockholm'
+68|Er|Erbium|Ytterby, Sweden, where it was found
+69|Tm|Thulium|Thule, the ancient name for an unclear northern location
+70|Yb|Ytterbium|Ytterby, Sweden, where it was found
+71|Lu|Lutetium|Latin Lutetia, 'Paris'
+72|Hf|Hafnium|New Latin Hafnia, 'Copenhagen' (from Danish havn, 'harbour')
+73|Ta|Tantalum|King Tantalus, father of Niobe from Greek mythology
+74|W|Tungsten|Swedish tung sten, 'heavy stone' (The symbol W is from Wolfram, a name used for the element in many languages, originally from Middle High German wolf-rahm (wolf's foam) describing the mineral wolframite)[7]
+75|Re|Rhenium|Latin Rhenus, 'the Rhine'
+76|Os|Osmium|Greek osmḗ, 'smell'
+77|Ir|Iridium|Iris, the Greek goddess of the rainbow
+78|Pt|Platinum|Spanish platina, 'little silver', from plata 'silver'
+79|Au|Gold|English word (the symbol Au is derived from Latin aurum)
+80|Hg|Mercury|Mercury, Roman god of commerce, communication, and luck, known for his speed and mobility (the symbol Hg derives from the element's Latin name hydrargyrum, from Greek hydrárgyros, 'water-silver')
+81|Tl|Thallium|Greek thallós, 'green shoot or twig'
+82|Pb|Lead|English word (the symbol Pb is derived from Latin plumbum)
+83|Bi|Bismuth|German Wismut, from weiß Masse 'white mass', unless from Arabic
+84|Po|Polonium|Latin Polonia, 'Poland' (the home country of Marie Curie)
+85|At|Astatine|Greek ástatos, 'unstable'
+86|Rn|Radon|Radium emanation, originally the name of the isotope Radon-222.
+87|Fr|Francium|France
+88|Ra|Radium|French radium, from Latin radius, 'ray'
+89|Ac|Actinium|Greek aktís, 'ray'
+90|Th|Thorium|Thor, the Scandinavian god of thunder
+91|Pa|Protactinium|Proto- (from Greek prôtos, 'first, before') + actinium, since actinium is produced through the radioactive decay of protactinium
+92|U|Uranium|Uranus, the seventh planet in the Solar System
+93|Np|Neptunium|Neptune, the eighth planet in the Solar System
+94|Pu|Plutonium|Dwarf planet Pluto, considered the ninth planet in the Solar System at the time it was discovered
+95|Am|Americium|The Americas, as the element was first synthesised on the continent, by analogy with europium
+96|Cm|Curium|Pierre Curie and Marie Curie, French physicists and chemists
+97|Bk|Berkelium|Berkeley, California, where the element was first synthesised, by analogy with terbium
+98|Cf|Californium|California, where the element was first synthesised
+99|Es|Einsteinium|Albert Einstein, German physicist
+100|Fm|Fermium|Enrico Fermi, Italian physicist
+101|Md|Mendelevium|Dmitri Mendeleev, Russian chemist and inventor who proposed the periodic table
+102|No|Nobelium|Alfred Nobel, Swedish chemist and engineer
+103|Lr|Lawrencium|Ernest Lawrence, American physicist
+104|Rf|Rutherfordium|Ernest Rutherford, chemist and physicist from New Zealand
+105|Db|Dubnium|Dubna, Russia, where the Joint Institute for Nuclear Research is located
+106|Sg|Seaborgium|Glenn T. Seaborg, American chemist
+107|Bh|Bohrium|Niels Bohr, Danish physicist
+108|Hs|Hassium|New Latin Hassia, 'Hesse' (a state in Germany)
+109|Mt|Meitnerium|Lise Meitner, Austrian physicist
+110|Ds|Darmstadtium|Darmstadt, Germany, where the element was first synthesised
+111|Rg|Roentgenium|Wilhelm Conrad Röntgen, German physicist
+112|Cn|Copernicium|Nicolaus Copernicus, Polish astronomer
+113|Nh|Nihonium|Japanese Nihon, 'Japan' (where the element was first synthesised)
+114|Fl|Flerovium|Flerov Laboratory of Nuclear Reactions, part of JINR, where the element was synthesised; itself named after Georgy Flyorov, Russian physicist
+115|Mc|Moscovium|Moscow Oblast, Russia, where the element was first synthesised
+116|Lv|Livermorium|Lawrence Livermore National Laboratory in Livermore, California, which collaborated with JINR on its synthesis
+117|Ts|Tennessine|Tennessee, United States (where Oak Ridge National Laboratory is located)
+118|Og|Oganesson|Yuri Oganessian, Russian-born Armenian physicist
