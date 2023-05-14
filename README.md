@@ -7,5 +7,5 @@ Programs are organized in the `src` directory by language -- [Clojure](https://c
 
 Data used in programs reside in the `resources` directory.
 
-[I gave a talk in 2018](https://www.youtube.com/watch?v=8cNrmV4Syf4&t=3469s) about some of the puzzles and their solution attempts in Clojure.
+[I gave a talk in 2018](https://www.youtube.com/watch?v=8cNrmV4Syf4) about some of the puzzles and their solution attempts in Clojure.
 
