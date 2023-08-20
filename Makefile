@@ -1,0 +1,2 @@
+clean:
+	lein clean
